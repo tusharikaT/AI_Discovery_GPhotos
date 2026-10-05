@@ -1,0 +1,13 @@
+{
+  "appstore": {
+    "too_short_words": 447,
+    "non_english": 67,
+    "too_short_chars": 23,
+    "noise_storage_quota": 138,
+    "no_text_content": 9,
+    "noise_billing_pricing": 28,
+    "noise_sync_backup": 57,
+    "noise_hardware_stability": 22,
+    "noise_account_security": 3
+  }
+}

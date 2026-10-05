@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"pains\": [],\n  \"screen\": \"not_named\",\n  \"looking_for\": \"not_said\",\n  \"still_remembers\": [],\n  \"missing\": [],\n  \"who\": \"not_said\",\n  \"feeling\": \"not_clear\",\n  \"did_next\": \"not_described\",\n  \"sentence\": \"\"\n}\n```", "usage": {"input_tokens": 2529, "output_tokens": 93}}

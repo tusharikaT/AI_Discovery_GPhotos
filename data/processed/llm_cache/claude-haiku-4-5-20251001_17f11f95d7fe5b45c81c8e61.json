@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"pains\": [\"search_returns_nothing\"],\n  \"screen\": \"Search\",\n  \"looking_for\": \"not_said\",\n  \"still_remembers\": [],\n  \"missing\": [],\n  \"who\": \"not_said\",\n  \"feeling\": \"frustrated\",\n  \"did_next\": \"not_described\",\n  \"sentence\": \"I can't find most of my stuff\"\n}\n```", "usage": {"input_tokens": 753, "output_tokens": 104}}

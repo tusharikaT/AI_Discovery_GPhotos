@@ -1,0 +1,1332 @@
+{
+  "formula": "Impact = 0.4*Stakes + 0.3*Abandonment + 0.3*Friction; Opportunity = Frequency * Impact",
+  "hero": {
+    "total_extracted": 1099,
+    "raw_ingested": 17803,
+    "retrieval_discussion_rate": 0.0617,
+    "mean_abandonment_rate": 0.7116,
+    "avg_query_attempts": 0.22,
+    "manual_scroll_share": 0.0464,
+    "manual_scroll_median_minutes": null,
+    "unknown_timestamp_count": 19
+  },
+  "top_problem": {
+    "archetype": "episodic_travel",
+    "count": 498,
+    "freq_score": 4.53,
+    "share": 0.4531,
+    "impact_score": 6.69,
+    "opportunity_score": 30.31,
+    "band": "Core Strategic Bet",
+    "abandonment_rate": 0.745,
+    "avg_attempts": 0.17,
+    "mean_stakes": 5.45,
+    "mean_friction": 7.6,
+    "proof_quote": "that's the only way I was ever able to see my dad & now I can't find them"
+  },
+  "archetypes": [
+    {
+      "archetype": "episodic_travel",
+      "count": 498,
+      "freq_score": 4.53,
+      "share": 0.4531,
+      "impact_score": 6.69,
+      "opportunity_score": 30.31,
+      "band": "Core Strategic Bet",
+      "abandonment_rate": 0.745,
+      "avg_attempts": 0.17,
+      "mean_stakes": 5.45,
+      "mean_friction": 7.6,
+      "proof_quote": "that's the only way I was ever able to see my dad & now I can't find them"
+    },
+    {
+      "archetype": "utility_document",
+      "count": 391,
+      "freq_score": 3.56,
+      "share": 0.3558,
+      "impact_score": 5.94,
+      "opportunity_score": 21.15,
+      "band": "Critical Safety Net",
+      "abandonment_rate": 0.688,
+      "avg_attempts": 0.25,
+      "mean_stakes": 4.28,
+      "mean_friction": 7.23,
+      "proof_quote": "I ask for \"yellow truck\" and it finds 2 out of the 10 different days I had taken pictures of yellow trucks"
+    },
+    {
+      "archetype": "micro_moment",
+      "count": 153,
+      "freq_score": 1.39,
+      "share": 0.1392,
+      "impact_score": 5.97,
+      "opportunity_score": 8.3,
+      "band": "Low-Priority Nuance",
+      "abandonment_rate": 0.7255,
+      "avg_attempts": 0.22,
+      "mean_stakes": 3.92,
+      "mean_friction": 7.41,
+      "proof_quote": "When I search for a specific dog, other things/dogs come up. It doesn't distinguish"
+    },
+    {
+      "archetype": "aesthetic_visual",
+      "count": 39,
+      "freq_score": 0.35,
+      "share": 0.0355,
+      "impact_score": 4.84,
+      "opportunity_score": 1.69,
+      "band": "Low-Priority Nuance",
+      "abandonment_rate": 0.5128,
+      "avg_attempts": 0.21,
+      "mean_stakes": 3.51,
+      "mean_friction": 6.31,
+      "proof_quote": "Why has the Search function stopped working? I have been a GP (Google Photos) from the very beginning. The main, and only reason I loved GP was because of the incredible search function. I am the family photo archivalist and have over half"
+    },
+    {
+      "archetype": "pre_verbal_sensory",
+      "count": 10,
+      "freq_score": 0.09,
+      "share": 0.0091,
+      "impact_score": 6.74,
+      "opportunity_score": 0.61,
+      "band": "Low-Priority Nuance",
+      "abandonment_rate": 0.9,
+      "avg_attempts": 1.0,
+      "mean_stakes": 3.8,
+      "mean_friction": 8.4,
+      "proof_quote": "Dec 2022: What's up with sorting? I'm getting photos from June 2006 showing up under April 2013 and things like that. Nothing is listed under the correct date at all. Makes it impossible to find the photos I want. Update 2026: I have a phot"
+    },
+    {
+      "archetype": "disambiguation_comparative",
+      "count": 8,
+      "freq_score": 0.07,
+      "share": 0.0073,
+      "impact_score": 3.81,
+      "opportunity_score": 0.27,
+      "band": "Low-Priority Nuance",
+      "abandonment_rate": 0.25,
+      "avg_attempts": 0.75,
+      "mean_stakes": 4.0,
+      "mean_friction": 4.88,
+      "proof_quote": "Give us an option to block the visibility of local content on the app. I want to see ONLY my backed-up photos and avoid local device folders since I already have the Gallery app for that. I hate that I have to scroll through all these unnec"
+    }
+  ],
+  "anchors_retained": {
+    "sensory": 258,
+    "emotional": 362,
+    "social": 206,
+    "temporal": 391
+  },
+  "anchors_forgotten": [
+    [
+      "exact date",
+      161
+    ],
+    [
+      "date",
+      110
+    ],
+    [
+      "photo content",
+      106
+    ],
+    [
+      "specific photo content",
+      102
+    ],
+    [
+      "location",
+      90
+    ],
+    [
+      "album name",
+      86
+    ],
+    [
+      "which photos",
+      56
+    ],
+    [
+      "specific photos",
+      56
+    ],
+    [
+      "album names",
+      55
+    ],
+    [
+      "dates",
+      51
+    ],
+    [
+      "context",
+      44
+    ],
+    [
+      "exact dates",
+      38
+    ],
+    [
+      "album",
+      35
+    ],
+    [
+      "specific dates",
+      33
+    ],
+    [
+      "content details",
+      33
+    ],
+    [
+      "subject matter",
+      31
+    ],
+    [
+      "specific content",
+      26
+    ],
+    [
+      "locations",
+      25
+    ],
+    [
+      "photo content details",
+      25
+    ],
+    [
+      "number of photos",
+      24
+    ]
+  ],
+  "anchor_cooccurrence": [
+    {
+      "pair": "temporal+emotional",
+      "count": 126
+    },
+    {
+      "pair": "emotional+social",
+      "count": 77
+    },
+    {
+      "pair": "temporal+social",
+      "count": 67
+    },
+    {
+      "pair": "temporal+sensory",
+      "count": 48
+    },
+    {
+      "pair": "sensory+emotional",
+      "count": 37
+    },
+    {
+      "pair": "sensory+social",
+      "count": 34
+    }
+  ],
+  "sankey": [
+    {
+      "source": "start",
+      "target": "abandoned",
+      "value": 651
+    },
+    {
+      "source": "start",
+      "target": "unknown",
+      "value": 214
+    },
+    {
+      "source": "start",
+      "target": "natural",
+      "value": 84
+    },
+    {
+      "source": "start",
+      "target": "keywords",
+      "value": 71
+    },
+    {
+      "source": "keywords",
+      "target": "abandoned",
+      "value": 53
+    },
+    {
+      "source": "desperation",
+      "target": "abandoned",
+      "value": 40
+    },
+    {
+      "source": "natural",
+      "target": "abandoned",
+      "value": 38
+    },
+    {
+      "source": "start",
+      "target": "retrieved_with_friction",
+      "value": 37
+    },
+    {
+      "source": "start",
+      "target": "desperation",
+      "value": 36
+    },
+    {
+      "source": "natural",
+      "target": "keywords",
+      "value": 24
+    },
+    {
+      "source": "keywords",
+      "target": "desperation",
+      "value": 19
+    },
+    {
+      "source": "desperation",
+      "target": "retrieved_with_friction",
+      "value": 13
+    },
+    {
+      "source": "keywords",
+      "target": "unknown",
+      "value": 12
+    },
+    {
+      "source": "natural",
+      "target": "unknown",
+      "value": 10
+    },
+    {
+      "source": "keywords",
+      "target": "retrieved_with_friction",
+      "value": 10
+    },
+    {
+      "source": "natural",
+      "target": "retrieved_with_friction",
+      "value": 7
+    },
+    {
+      "source": "start",
+      "target": "social_offload",
+      "value": 6
+    },
+    {
+      "source": "natural",
+      "target": "desperation",
+      "value": 5
+    },
+    {
+      "source": "desperation",
+      "target": "unknown",
+      "value": 5
+    },
+    {
+      "source": "desperation",
+      "target": "social_offload",
+      "value": 2
+    },
+    {
+      "source": "keywords",
+      "target": "social_offload",
+      "value": 1
+    }
+  ],
+  "user_vocabulary": [
+    [
+      "search",
+      44
+    ],
+    [
+      "photos",
+      33
+    ],
+    [
+      "name",
+      17
+    ],
+    [
+      "google",
+      15
+    ],
+    [
+      "photo",
+      13
+    ],
+    [
+      "through",
+      13
+    ],
+    [
+      "scrolling",
+      12
+    ],
+    [
+      "date",
+      10
+    ],
+    [
+      "videos",
+      9
+    ],
+    [
+      "album",
+      8
+    ],
+    [
+      "app",
+      7
+    ],
+    [
+      "specific",
+      6
+    ],
+    [
+      "file",
+      6
+    ],
+    [
+      "searched",
+      6
+    ],
+    [
+      "checked",
+      6
+    ],
+    [
+      "people",
+      5
+    ],
+    [
+      "words",
+      5
+    ],
+    [
+      "keywords",
+      5
+    ],
+    [
+      "person",
+      5
+    ],
+    [
+      "scrolled",
+      5
+    ],
+    [
+      "all",
+      5
+    ],
+    [
+      "dog",
+      5
+    ],
+    [
+      "screenshot",
+      5
+    ],
+    [
+      "using",
+      5
+    ],
+    [
+      "pictures",
+      5
+    ],
+    [
+      "terms",
+      4
+    ],
+    [
+      "what",
+      4
+    ],
+    [
+      "last",
+      4
+    ],
+    [
+      "word",
+      4
+    ],
+    [
+      "images",
+      4
+    ]
+  ],
+  "system_tag_hits": [
+    [
+      "person",
+      5
+    ],
+    [
+      "dog",
+      5
+    ],
+    [
+      "screenshot",
+      5
+    ],
+    [
+      "face",
+      4
+    ],
+    [
+      "cat",
+      3
+    ],
+    [
+      "car",
+      1
+    ],
+    [
+      "bottle",
+      1
+    ],
+    [
+      "building",
+      1
+    ],
+    [
+      "chair",
+      1
+    ],
+    [
+      "table",
+      1
+    ],
+    [
+      "receipt",
+      1
+    ]
+  ],
+  "atmospheric_hits": [
+    [
+      "cozy",
+      1
+    ]
+  ],
+  "atmospheric_share_of_query_terms": 0.0345,
+  "semantic_distance_method": "lexical_overlap_pending_embeddings",
+  "surfaces": [
+    {
+      "surface": "unknown",
+      "mentions": 665,
+      "frustration_pct": 89.0
+    },
+    {
+      "surface": "search_bar",
+      "mentions": 218,
+      "frustration_pct": 92.7
+    },
+    {
+      "surface": "albums",
+      "mentions": 72,
+      "frustration_pct": 100.0
+    },
+    {
+      "surface": "timeline",
+      "mentions": 71,
+      "frustration_pct": 95.8
+    },
+    {
+      "surface": "faces",
+      "mentions": 50,
+      "frustration_pct": 94.0
+    },
+    {
+      "surface": "ask_photos",
+      "mentions": 16,
+      "frustration_pct": 62.5
+    },
+    {
+      "surface": "memories",
+      "mentions": 6,
+      "frustration_pct": 66.7
+    },
+    {
+      "surface": "lens",
+      "mentions": 1,
+      "frustration_pct": 100.0
+    }
+  ],
+  "workarounds": {
+    "permanent_loss": 747,
+    "other": 286,
+    "manual_scroll": 51,
+    "album_reorg": 5,
+    "social_offload": 10
+  },
+  "effort_curve": [
+    {
+      "attempts": 0,
+      "workaround": "album_reorg",
+      "count": 3
+    },
+    {
+      "attempts": 0,
+      "workaround": "manual_scroll",
+      "count": 26
+    },
+    {
+      "attempts": 0,
+      "workaround": "other",
+      "count": 244
+    },
+    {
+      "attempts": 0,
+      "workaround": "permanent_loss",
+      "count": 629
+    },
+    {
+      "attempts": 0,
+      "workaround": "social_offload",
+      "count": 6
+    },
+    {
+      "attempts": 1,
+      "workaround": "album_reorg",
+      "count": 1
+    },
+    {
+      "attempts": 1,
+      "workaround": "manual_scroll",
+      "count": 19
+    },
+    {
+      "attempts": 1,
+      "workaround": "other",
+      "count": 31
+    },
+    {
+      "attempts": 1,
+      "workaround": "permanent_loss",
+      "count": 97
+    },
+    {
+      "attempts": 1,
+      "workaround": "social_offload",
+      "count": 1
+    },
+    {
+      "attempts": 2,
+      "workaround": "manual_scroll",
+      "count": 6
+    },
+    {
+      "attempts": 2,
+      "workaround": "other",
+      "count": 10
+    },
+    {
+      "attempts": 2,
+      "workaround": "permanent_loss",
+      "count": 17
+    },
+    {
+      "attempts": 2,
+      "workaround": "social_offload",
+      "count": 3
+    },
+    {
+      "attempts": 3,
+      "workaround": "album_reorg",
+      "count": 1
+    },
+    {
+      "attempts": 3,
+      "workaround": "other",
+      "count": 1
+    },
+    {
+      "attempts": 3,
+      "workaround": "permanent_loss",
+      "count": 4
+    }
+  ],
+  "trends": [
+    {
+      "period": "2010-Q4",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2011-Q2",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2012-Q2",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2012-Q3",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2012-Q3",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2012-Q3",
+      "archetype": "utility_document",
+      "count": 2,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2013-Q2",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2015-Q2",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2015-Q4",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2016-Q1",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2016-Q3",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2017-Q1",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2017-Q3",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2017-Q3",
+      "archetype": "utility_document",
+      "count": 2,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2018-Q1",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2018-Q3",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2018-Q3",
+      "archetype": "micro_moment",
+      "count": 2,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2018-Q3",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2018-Q4",
+      "archetype": "aesthetic_visual",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2018-Q4",
+      "archetype": "episodic_travel",
+      "count": 2,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2019-Q1",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2019-Q1",
+      "archetype": "utility_document",
+      "count": 2,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2019-Q2",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2019-Q3",
+      "archetype": "aesthetic_visual",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2019-Q3",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2020-Q1",
+      "archetype": "episodic_travel",
+      "count": 2,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2020-Q1",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2020-Q2",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2020-Q2",
+      "archetype": "micro_moment",
+      "count": 2,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2020-Q2",
+      "archetype": "utility_document",
+      "count": 2,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2020-Q3",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2020-Q4",
+      "archetype": "aesthetic_visual",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2020-Q4",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2021-Q1",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2021-Q2",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2021-Q2",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2021-Q3",
+      "archetype": "episodic_travel",
+      "count": 2,
+      "avg_friction": 7.5
+    },
+    {
+      "period": "2021-Q3",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2021-Q3",
+      "archetype": "utility_document",
+      "count": 2,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2021-Q4",
+      "archetype": "episodic_travel",
+      "count": 2,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2021-Q4",
+      "archetype": "utility_document",
+      "count": 4,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2022-Q1",
+      "archetype": "utility_document",
+      "count": 2,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2022-Q2",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2022-Q3",
+      "archetype": "aesthetic_visual",
+      "count": 1,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2022-Q3",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2022-Q3",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2022-Q3",
+      "archetype": "utility_document",
+      "count": 4,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2022-Q4",
+      "archetype": "episodic_travel",
+      "count": 2,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2022-Q4",
+      "archetype": "utility_document",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2023-Q1",
+      "archetype": "aesthetic_visual",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2023-Q1",
+      "archetype": "episodic_travel",
+      "count": 2,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2023-Q1",
+      "archetype": "utility_document",
+      "count": 2,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2023-Q2",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2023-Q2",
+      "archetype": "utility_document",
+      "count": 2,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2023-Q3",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2023-Q4",
+      "archetype": "disambiguation_comparative",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2023-Q4",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2023-Q4",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2024-Q1",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2024-Q1",
+      "archetype": "utility_document",
+      "count": 3,
+      "avg_friction": 5.0
+    },
+    {
+      "period": "2024-Q2",
+      "archetype": "disambiguation_comparative",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2024-Q2",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2024-Q2",
+      "archetype": "micro_moment",
+      "count": 2,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2024-Q2",
+      "archetype": "utility_document",
+      "count": 4,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2024-Q3",
+      "archetype": "aesthetic_visual",
+      "count": 2,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2024-Q3",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2024-Q3",
+      "archetype": "utility_document",
+      "count": 5,
+      "avg_friction": 6.6
+    },
+    {
+      "period": "2024-Q4",
+      "archetype": "disambiguation_comparative",
+      "count": 2,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2024-Q4",
+      "archetype": "episodic_travel",
+      "count": 11,
+      "avg_friction": 7.36
+    },
+    {
+      "period": "2024-Q4",
+      "archetype": "micro_moment",
+      "count": 3,
+      "avg_friction": 7.0
+    },
+    {
+      "period": "2024-Q4",
+      "archetype": "utility_document",
+      "count": 3,
+      "avg_friction": 5.0
+    },
+    {
+      "period": "2025-Q1",
+      "archetype": "aesthetic_visual",
+      "count": 2,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2025-Q1",
+      "archetype": "disambiguation_comparative",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2025-Q1",
+      "archetype": "episodic_travel",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2025-Q1",
+      "archetype": "utility_document",
+      "count": 6,
+      "avg_friction": 7.0
+    },
+    {
+      "period": "2025-Q2",
+      "archetype": "aesthetic_visual",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2025-Q2",
+      "archetype": "episodic_travel",
+      "count": 3,
+      "avg_friction": 8.0
+    },
+    {
+      "period": "2025-Q2",
+      "archetype": "pre_verbal_sensory",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2025-Q2",
+      "archetype": "utility_document",
+      "count": 6,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2025-Q3",
+      "archetype": "aesthetic_visual",
+      "count": 1,
+      "avg_friction": 3.0
+    },
+    {
+      "period": "2025-Q3",
+      "archetype": "episodic_travel",
+      "count": 2,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2025-Q3",
+      "archetype": "pre_verbal_sensory",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2025-Q3",
+      "archetype": "utility_document",
+      "count": 5,
+      "avg_friction": 5.4
+    },
+    {
+      "period": "2025-Q4",
+      "archetype": "episodic_travel",
+      "count": 6,
+      "avg_friction": 8.0
+    },
+    {
+      "period": "2025-Q4",
+      "archetype": "micro_moment",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2025-Q4",
+      "archetype": "utility_document",
+      "count": 4,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2026-Q1",
+      "archetype": "aesthetic_visual",
+      "count": 10,
+      "avg_friction": 7.2
+    },
+    {
+      "period": "2026-Q1",
+      "archetype": "episodic_travel",
+      "count": 107,
+      "avg_friction": 7.6
+    },
+    {
+      "period": "2026-Q1",
+      "archetype": "micro_moment",
+      "count": 24,
+      "avg_friction": 8.38
+    },
+    {
+      "period": "2026-Q1",
+      "archetype": "pre_verbal_sensory",
+      "count": 1,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2026-Q1",
+      "archetype": "utility_document",
+      "count": 70,
+      "avg_friction": 7.59
+    },
+    {
+      "period": "2026-Q2",
+      "archetype": "aesthetic_visual",
+      "count": 4,
+      "avg_friction": 4.5
+    },
+    {
+      "period": "2026-Q2",
+      "archetype": "episodic_travel",
+      "count": 167,
+      "avg_friction": 7.65
+    },
+    {
+      "period": "2026-Q2",
+      "archetype": "micro_moment",
+      "count": 53,
+      "avg_friction": 7.19
+    },
+    {
+      "period": "2026-Q2",
+      "archetype": "pre_verbal_sensory",
+      "count": 5,
+      "avg_friction": 7.8
+    },
+    {
+      "period": "2026-Q2",
+      "archetype": "utility_document",
+      "count": 119,
+      "avg_friction": 7.82
+    },
+    {
+      "period": "2026-Q3",
+      "archetype": "aesthetic_visual",
+      "count": 13,
+      "avg_friction": 8.08
+    },
+    {
+      "period": "2026-Q3",
+      "archetype": "disambiguation_comparative",
+      "count": 3,
+      "avg_friction": 6.0
+    },
+    {
+      "period": "2026-Q3",
+      "archetype": "episodic_travel",
+      "count": 168,
+      "avg_friction": 7.82
+    },
+    {
+      "period": "2026-Q3",
+      "archetype": "micro_moment",
+      "count": 51,
+      "avg_friction": 7.71
+    },
+    {
+      "period": "2026-Q3",
+      "archetype": "pre_verbal_sensory",
+      "count": 2,
+      "avg_friction": 9.0
+    },
+    {
+      "period": "2026-Q3",
+      "archetype": "utility_document",
+      "count": 123,
+      "avg_friction": 7.51
+    }
+  ],
+  "segments": [
+    {
+      "segment": "general",
+      "count": 665,
+      "problem_rate": 0.7489,
+      "top_archetype": "episodic_travel",
+      "implication": "Most people describe a life moment, then strip the query down to one noun."
+    },
+    {
+      "segment": "unknown",
+      "count": 249,
+      "problem_rate": 0.6104,
+      "top_archetype": "utility_document",
+      "implication": "Segment was not stated in the text."
+    },
+    {
+      "segment": "platform_android",
+      "count": 133,
+      "problem_rate": 0.6692,
+      "top_archetype": "episodic_travel",
+      "implication": "Android volume is the baseline for search-bar and timeline failure."
+    },
+    {
+      "segment": "heavy_shooter",
+      "count": 63,
+      "problem_rate": 0.7302,
+      "top_archetype": "episodic_travel",
+      "implication": "Large libraries make flooding worse. Prioritize sub-filters after a face or object hit."
+    },
+    {
+      "segment": "older_user",
+      "count": 50,
+      "problem_rate": 0.78,
+      "top_archetype": "episodic_travel",
+      "implication": "Timeline scrolling is the fallback. Search must accept rough era language."
+    },
+    {
+      "segment": "document_keeper",
+      "count": 47,
+      "problem_rate": 0.7447,
+      "top_archetype": "utility_document",
+      "implication": "Receipts and labels fail when OCR or the exact noun is missing."
+    },
+    {
+      "segment": "platform_ios",
+      "count": 35,
+      "problem_rate": 0.7714,
+      "top_archetype": "utility_document",
+      "implication": "iOS reviews show whether Ask Photos and the search bar fail the same way as Android."
+    },
+    {
+      "segment": "parent",
+      "count": 13,
+      "problem_rate": 0.5385,
+      "top_archetype": "episodic_travel",
+      "implication": "Retrieval is often a specific child moment buried in near-identical bursts."
+    },
+    {
+      "segment": "traveler",
+      "count": 8,
+      "problem_rate": 0.5,
+      "top_archetype": "episodic_travel",
+      "implication": "Trip memory is relative time plus place vibe, not a calendar date."
+    },
+    {
+      "segment": "student",
+      "count": 4,
+      "problem_rate": 0.25,
+      "top_archetype": "utility_document",
+      "implication": "Notes, whiteboards, and slides are utility searches with weak filenames."
+    }
+  ]
+}

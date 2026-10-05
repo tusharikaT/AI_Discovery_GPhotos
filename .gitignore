@@ -1,0 +1,45 @@
+# --- Secrets ---
+.env
+.streamlit/secrets.toml
+
+# --- Internal planning/spec docs (not committed) ---
+docs/
+research_insights*.md
+research_insights1
+screen_mockups.md
+
+# --- Excluded Projects / Irrelevant Folders ---
+momentsort/
+spotify/
+current google photos images/
+scripts/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+
+# --- Caches / logs ---
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+llm_cache/                # on-disk LLM response cache (regenerable)
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# NOTE: data/ artifacts (SQLite DB, Chroma index, processed JSONL) are
+# intentionally COMMITTED so the deployed app runs standalone. Do NOT ignore data/.

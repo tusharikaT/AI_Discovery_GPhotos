@@ -1,0 +1,239 @@
+{
+  "input": 17803,
+  "kept_before_dedup": 1114,
+  "dropped_by_reason": {
+    "low_information": 9655,
+    "photos_not_retrieval": 2046,
+    "competitor_only": 103,
+    "non_english": 53,
+    "promo_or_bot": 7,
+    "below_relevance_threshold": 4823,
+    "llm_missing": 2
+  },
+  "dropped_by_source": {
+    "appstore": {
+      "low_information": 581,
+      "photos_not_retrieval": 119,
+      "competitor_only": 13,
+      "non_english": 1,
+      "below_relevance_threshold": 387
+    },
+    "playstore": {
+      "low_information": 8716,
+      "photos_not_retrieval": 1605,
+      "non_english": 50,
+      "competitor_only": 35,
+      "below_relevance_threshold": 4016,
+      "llm_missing": 1
+    },
+    "reddit": {
+      "photos_not_retrieval": 279,
+      "promo_or_bot": 5,
+      "low_information": 7,
+      "competitor_only": 11,
+      "below_relevance_threshold": 293
+    },
+    "web": {
+      "promo_or_bot": 2,
+      "photos_not_retrieval": 6,
+      "below_relevance_threshold": 15
+    },
+    "youtube": {
+      "low_information": 351,
+      "photos_not_retrieval": 37,
+      "competitor_only": 44,
+      "non_english": 2,
+      "below_relevance_threshold": 112,
+      "llm_missing": 1
+    }
+  },
+  "threshold": 0.55,
+  "sample_kept": [
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Review I really enjoy using Google Photos. It makes it easy to keep my pictures organized, find older memories, and have my photos backed up in one place. I especially like being able to search for photos without scrolling through thousands"
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Search no longer works. Photos just hangs when I type in a search term. No results shown. Also I hate the new layout."
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "AI has made this useless With the recent updates I increasingly find if I search for any photos, then issue a follow up query, it will completely ignore the initial search results and describe some random photo from my library that has noth"
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Search Not good, ok if you search for stuff on generic keys, such as boats or trains. Poor on specifics like serial numbers on trains. Used to be good on train serial numbers but not any more. Old versions were great but latest versions are"
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Room for improvement? I’ve been using this app for quite a few years. I like that it has some image recognition capability to aid searching for photos of a particular subject. Given that ai image recognition has advanced considerably in the"
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Getting worse What have they done to search and the organisation of photos? Half of my date searches now return zero results unless I use very specific (unintuitive) date formats. Photos repeat when scrolling search results, and the results"
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Love my memories all in one place! Love Google Photos! I get to organize them in albums and search for what I want. I can share with family and friends the albums I want. I LOVE themes face detection option to look for pics of the people I "
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Google Vs ICloud Trying to find out who gives me better for my money.."
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Nonsensical Product Limitations Why can't this app search for photos that aren't backed up to the google cloud? All the data is on my phone. Fire whoever made this illogical decision and have a good discussion about what a bad direction you"
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "DOES CANADA HAVE ASKPHOTOS YET? IM FROM CANADA. AND PATIENTLY WAITING FOR ACCESS TO GEMINIS ASK PHOTOS FEATURE."
+    },
+    {
+      "source": "appstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "This had the best meta search feature I’ve ever used After the latest update when I search for text the most random things appear. Before the update I would search for “green” and a random photo would appear. After zooming in I might see th"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Give us an option to block the visibility of local content on the app. I want to see ONLY my backed-up photos and avoid local device folders since I already have the Gallery app for that. I hate that I have to scroll through all these unnec"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Can't find my device photos even if I backed everything up. I can't also find it in my files. I didn't even \"accidentally\" delete it. Please fix this issue. I don't know what to do. Tried clearing the cache. The photos were very important t"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Whoever designed this was linguistically challenged. Stop using so many synonyms. Images, photos, pictures, is all the SAME thing!!! If there's a way to be ignorant, people will find it. You star a photo and can't find it elsewhere. It gets"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "I can't label my face or search for it"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "Incredibly stupid how it can't find photos from my gallery"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "terrible, totally user unfriendly and useless. l can't find what l need, it keeps pictures l don't want anymore, can't even disable it's permissions."
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "I can no longer search my photos for people, colors, objects or words (etc). trying to ask Gemini doesn't work and just sends me back to the search page which always yeilds no results."
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "AI on this is the dumbest, sorry. I need an option to search for photos without the use of Artificial Insanity please."
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "It's a pain in the neck to find the photos that I need. They are not organized by category as you claim this version would do. I now I have to pay every month? What's up with that? I have so many pictures & now I have to move them somewhere"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "I don't like how the app constantly rearrange photos, making them very difficult to find. I also don't appreciate the app creating slide shows on its own. For example, the app took pictures of my mom not along after she passed. She was very"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "I can't find the photos that I need."
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "This app is total trash. with every update. it ruins the ability to search and find photographs. It keeps trying to force AI into managing photographs. The simple act of trying to find a photo on a particular date is impossible. This is tot"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "where is the app on my phone. looked for pinwheel cant find it."
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "photos is great, but the new update they put in for music playing over the \"memories\" is very annoying! I can't hear the original audio and I can't find an option to turn the music off. I'd be giving 5 stars for this rating if that was fixe"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "PLEASE add the option to size all previews in the grid-based gallery view the same size. I do NOT want any of my photos randomly 4 times the size of the others using up 4 spots on the screen it makes it really jarring to scroll through sear"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "I can't find my oldest photo"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "I can't retrieve a lost photo that I'm trying to find in the trash"
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "I don't know what's going on lately with Google photos I can't find anything everything is not where it used to be you keep adding folders you remove folders there's too many folders can we do something about showing people how to simplify "
+    },
+    {
+      "source": "playstore",
+      "score": 0.9,
+      "reason": "rule_retrieval",
+      "text": "I cant find some of my photos it disappears on its own"
+    }
+  ],
+  "dedup": {
+    "input": 1114,
+    "exact_dropped": 1,
+    "near_dropped": 10,
+    "kept": 1103
+  }
+}

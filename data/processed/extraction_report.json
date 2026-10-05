@@ -1,0 +1,13 @@
+{
+  "input": 1103,
+  "already_done": 488,
+  "extracted_this_run": 611,
+  "quarantined_this_run": 4,
+  "pass_rate_this_run": 0.9935,
+  "corpus_extracted": 1099,
+  "cache_hits": 0,
+  "input_tokens": 936527,
+  "output_tokens": 277864,
+  "model": "claude-haiku-4-5-20251001",
+  "prompt_version": "v1"
+}

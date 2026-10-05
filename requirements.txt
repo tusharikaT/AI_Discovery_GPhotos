@@ -1,0 +1,36 @@
+# AI-Powered Discovery Engine — Python dependencies
+# Python 3.11+
+
+# --- App / dashboard ---
+streamlit>=1.36
+plotly>=5.22
+pandas>=2.2
+
+# --- Config / validation ---
+pydantic>=2.7
+pydantic-settings>=2.3
+python-dotenv>=1.0
+
+# --- Scraping (all free paths) ---
+requests>=2.32
+beautifulsoup4>=4.12
+trafilatura>=1.9
+duckduckgo-search>=6.1          # web-first search-driven discovery
+google-play-scraper>=1.2
+app-store-scraper>=0.3.5
+youtube-comment-downloader>=0.1.76
+
+# --- Filtering / dedup ---
+langdetect>=1.0.9               # language gate
+datasketch>=1.6                 # MinHash near-duplicate detection
+
+# --- Vector store / embeddings ---
+chromadb>=0.5
+sentence-transformers>=3.0      # default free local embeddings (may change per Phase 5)
+
+# --- Utilities ---
+tenacity>=8.3                   # retries/backoff
+tqdm>=4.66                      # progress bars
+
+# --- LLM SDK (Phase 3: Anthropic Haiku for bulk extraction) ---
+anthropic>=0.40

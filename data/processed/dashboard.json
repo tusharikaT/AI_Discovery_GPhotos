@@ -1,0 +1,1749 @@
+{
+  "total": 1099,
+  "pains_by_opportunity": [
+    {
+      "id": "search_returns_nothing",
+      "label": "Search returns nothing",
+      "count": 498,
+      "share": 0.4531,
+      "frequency": 4.53,
+      "impact": 6.45,
+      "opportunity": 29.22,
+      "severity": 64.5,
+      "quadrant": "Critical Safety Net",
+      "failed_share": 0.7691,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          406
+        ],
+        [
+          "no_longer_trusts_search",
+          48
+        ],
+        [
+          "anxious",
+          18
+        ],
+        [
+          "grieving",
+          15
+        ],
+        [
+          "not_clear",
+          7
+        ],
+        [
+          "gave_up",
+          3
+        ],
+        [
+          "worn_down",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Very very bug-ridden Update 2024-11-03. When choosing what album to upload to, the albums are in random order which makes it a very frustrating exercise. As of the latest version (2020-08-16), it uploads around 60-70% of",
+      "cite": "App Store · UK and Ireland · 2024-11-03 · 1 stars",
+      "url": "https://apps.apple.com/gb/app/id962194608"
+    },
+    {
+      "id": "does_not_fit",
+      "label": "Not about finding a photo",
+      "count": 444,
+      "share": 0.404,
+      "frequency": 4.04,
+      "impact": 5.91,
+      "opportunity": 23.88,
+      "severity": 59.1,
+      "quadrant": "Critical Safety Net",
+      "failed_share": 0.6284,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          258
+        ],
+        [
+          "not_clear",
+          141
+        ],
+        [
+          "grieving",
+          18
+        ],
+        [
+          "relieved",
+          15
+        ],
+        [
+          "anxious",
+          7
+        ],
+        [
+          "no_longer_trusts_search",
+          5
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Google forces you to enable your gallery to look at your past uploads! Makes no sense On top of that, explain why it takes sometimes minutes to load a short video?",
+      "cite": "App Store · North America · 2026-08-10 · 1 stars",
+      "url": "https://apps.apple.com/us/app/id962194608"
+    },
+    {
+      "id": "library_flood",
+      "label": "The library is so large that any result is still a flood",
+      "count": 102,
+      "share": 0.0928,
+      "frequency": 0.93,
+      "impact": 6.79,
+      "opportunity": 6.31,
+      "severity": 67.9,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.8431,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          86
+        ],
+        [
+          "no_longer_trusts_search",
+          7
+        ],
+        [
+          "grieving",
+          4
+        ],
+        [
+          "anxious",
+          4
+        ],
+        [
+          "not_clear",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "I had a recording and I can't find it and now I realized it was shared with the whole damn world because it has folders and I can't find it anymore",
+      "cite": "Play Store · North America · 2026-05-06 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=60fc451b-154c-4557-87bd-7b29ebfe4cff"
+    },
+    {
+      "id": "faces",
+      "label": "Faces are missing or the wrong person",
+      "count": 66,
+      "share": 0.0601,
+      "frequency": 0.6,
+      "impact": 6.87,
+      "opportunity": 4.12,
+      "severity": 68.7,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.803,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          59
+        ],
+        [
+          "not_clear",
+          3
+        ],
+        [
+          "grieving",
+          2
+        ],
+        [
+          "anxious",
+          1
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "The face thing automatically groups him under the other cats so I manually added a folder and started adding him. But one day it was gone and his photos went back to the other folders.",
+      "cite": "Play Store · North America · 2026-05-26 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=15ccb136-d001-47f5-a178-d3ab273efe91"
+    },
+    {
+      "id": "memories_albums",
+      "label": "Memories or albums show the wrong moment",
+      "count": 44,
+      "share": 0.04,
+      "frequency": 0.4,
+      "impact": 7.36,
+      "opportunity": 2.94,
+      "severity": 73.6,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.8864,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          37
+        ],
+        [
+          "grieving",
+          6
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "i had some good pictures the summer of 25 u deleted and they were also the 1s I wanted to keep and I cannot find any",
+      "cite": "Play Store · North America · 2026-07-27 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=9c7f59f2-3515-4723-9b16-99b10f12fc07"
+    },
+    {
+      "id": "search_worked",
+      "label": "Search actually worked",
+      "count": 28,
+      "share": 0.0255,
+      "frequency": 0.25,
+      "impact": 5.7,
+      "opportunity": 1.43,
+      "severity": 57.0,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.6786,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          18
+        ],
+        [
+          "no_longer_trusts_search",
+          10
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Getting worse What have they done to search and the organisation of photos? Half of my date searches now return zero results unless I use very specific (unintuitive) date formats. Photos repeat when scrolling search resu",
+      "cite": "App Store · UK and Ireland · 2024-10-19 · 1 stars",
+      "url": "https://apps.apple.com/gb/app/id962194608"
+    },
+    {
+      "id": "wrong_photo",
+      "label": "Search returns the wrong photo",
+      "count": 11,
+      "share": 0.01,
+      "frequency": 0.1,
+      "impact": 5.81,
+      "opportunity": 0.58,
+      "severity": 58.1,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.6364,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          9
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ],
+        [
+          "grieving",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Used to be so great Used to be so great but now after they introduced AI this past year, it’s clear that their algorithm fell apart. Try searching photos now. It’s a nightmare. I’m getting the most random scattered resul",
+      "cite": "App Store · North America · 2025-03-03 · 1 stars",
+      "url": "https://apps.apple.com/ca/app/id962194608"
+    },
+    {
+      "id": "ask_followup",
+      "label": "Ask Photos forgets the follow-up",
+      "count": 6,
+      "share": 0.0055,
+      "frequency": 0.05,
+      "impact": 4.63,
+      "opportunity": 0.23,
+      "severity": 46.3,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.5,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          4
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ],
+        [
+          "not_clear",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "if I search for any photos, then issue a follow up query, it will completely ignore the initial search results and describe some random photo from my library",
+      "cite": "App Store · UK and Ireland · 2026-06-26 · 1 stars",
+      "url": "https://apps.apple.com/gb/app/id962194608"
+    },
+    {
+      "id": "document",
+      "label": "A receipt, label, or serial number cannot be found",
+      "count": 4,
+      "share": 0.0036,
+      "frequency": 0.04,
+      "impact": 5.53,
+      "opportunity": 0.22,
+      "severity": 55.3,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.25,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          3
+        ],
+        [
+          "anxious",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "keeps_documents",
+      "sentence": "Recently I noticed a file called explore with Hippa protected documents, legal documents all exposed comes right up scrolling through.",
+      "cite": "Play Store · North America · 2026-03-27 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=33d2aef9-877c-4280-a32e-e9fc73e1bc72"
+    },
+    {
+      "id": "burst",
+      "label": "Near-identical photos, and they cannot pick the right one",
+      "count": 3,
+      "share": 0.0027,
+      "frequency": 0.03,
+      "impact": 5.3,
+      "opportunity": 0.16,
+      "severity": 53.0,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.6667,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          3
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "clunky and glitchy. can't view all photos in a burst no matter what I do. randomly did give me the three dots I needed on one burst to save each image but had not let me replicate this since. moved photos into an album a",
+      "cite": "Play Store · North America · 2026-03-13 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=1dcb33f2-20d6-463c-83ea-202639b74809"
+    },
+    {
+      "id": "vague_memory",
+      "label": "They remember a time, a color, or a feeling, and search only accepts a noun or a date",
+      "count": 2,
+      "share": 0.0018,
+      "frequency": 0.02,
+      "impact": 7.7,
+      "opportunity": 0.15,
+      "severity": 77.0,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 1.0,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          2
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "I can not just go to my photos, I must wait for memory to be to see my photos or to get to a specific person.",
+      "cite": "Play Store · North America · 2026-09-15 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=1fdb3c7f-7ee9-47a5-b5d8-1c3ed77636c1"
+    }
+  ],
+  "pains_by_count": [
+    {
+      "id": "search_returns_nothing",
+      "label": "Search returns nothing",
+      "count": 498,
+      "share": 0.4531,
+      "frequency": 4.53,
+      "impact": 6.45,
+      "opportunity": 29.22,
+      "severity": 64.5,
+      "quadrant": "Critical Safety Net",
+      "failed_share": 0.7691,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          406
+        ],
+        [
+          "no_longer_trusts_search",
+          48
+        ],
+        [
+          "anxious",
+          18
+        ],
+        [
+          "grieving",
+          15
+        ],
+        [
+          "not_clear",
+          7
+        ],
+        [
+          "gave_up",
+          3
+        ],
+        [
+          "worn_down",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Very very bug-ridden Update 2024-11-03. When choosing what album to upload to, the albums are in random order which makes it a very frustrating exercise. As of the latest version (2020-08-16), it uploads around 60-70% of",
+      "cite": "App Store · UK and Ireland · 2024-11-03 · 1 stars",
+      "url": "https://apps.apple.com/gb/app/id962194608"
+    },
+    {
+      "id": "does_not_fit",
+      "label": "Not about finding a photo",
+      "count": 444,
+      "share": 0.404,
+      "frequency": 4.04,
+      "impact": 5.91,
+      "opportunity": 23.88,
+      "severity": 59.1,
+      "quadrant": "Critical Safety Net",
+      "failed_share": 0.6284,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          258
+        ],
+        [
+          "not_clear",
+          141
+        ],
+        [
+          "grieving",
+          18
+        ],
+        [
+          "relieved",
+          15
+        ],
+        [
+          "anxious",
+          7
+        ],
+        [
+          "no_longer_trusts_search",
+          5
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Google forces you to enable your gallery to look at your past uploads! Makes no sense On top of that, explain why it takes sometimes minutes to load a short video?",
+      "cite": "App Store · North America · 2026-08-10 · 1 stars",
+      "url": "https://apps.apple.com/us/app/id962194608"
+    },
+    {
+      "id": "library_flood",
+      "label": "The library is so large that any result is still a flood",
+      "count": 102,
+      "share": 0.0928,
+      "frequency": 0.93,
+      "impact": 6.79,
+      "opportunity": 6.31,
+      "severity": 67.9,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.8431,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          86
+        ],
+        [
+          "no_longer_trusts_search",
+          7
+        ],
+        [
+          "grieving",
+          4
+        ],
+        [
+          "anxious",
+          4
+        ],
+        [
+          "not_clear",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "I had a recording and I can't find it and now I realized it was shared with the whole damn world because it has folders and I can't find it anymore",
+      "cite": "Play Store · North America · 2026-05-06 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=60fc451b-154c-4557-87bd-7b29ebfe4cff"
+    },
+    {
+      "id": "faces",
+      "label": "Faces are missing or the wrong person",
+      "count": 66,
+      "share": 0.0601,
+      "frequency": 0.6,
+      "impact": 6.87,
+      "opportunity": 4.12,
+      "severity": 68.7,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.803,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          59
+        ],
+        [
+          "not_clear",
+          3
+        ],
+        [
+          "grieving",
+          2
+        ],
+        [
+          "anxious",
+          1
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "The face thing automatically groups him under the other cats so I manually added a folder and started adding him. But one day it was gone and his photos went back to the other folders.",
+      "cite": "Play Store · North America · 2026-05-26 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=15ccb136-d001-47f5-a178-d3ab273efe91"
+    },
+    {
+      "id": "memories_albums",
+      "label": "Memories or albums show the wrong moment",
+      "count": 44,
+      "share": 0.04,
+      "frequency": 0.4,
+      "impact": 7.36,
+      "opportunity": 2.94,
+      "severity": 73.6,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.8864,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          37
+        ],
+        [
+          "grieving",
+          6
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "i had some good pictures the summer of 25 u deleted and they were also the 1s I wanted to keep and I cannot find any",
+      "cite": "Play Store · North America · 2026-07-27 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=9c7f59f2-3515-4723-9b16-99b10f12fc07"
+    },
+    {
+      "id": "search_worked",
+      "label": "Search actually worked",
+      "count": 28,
+      "share": 0.0255,
+      "frequency": 0.25,
+      "impact": 5.7,
+      "opportunity": 1.43,
+      "severity": 57.0,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.6786,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          18
+        ],
+        [
+          "no_longer_trusts_search",
+          10
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Getting worse What have they done to search and the organisation of photos? Half of my date searches now return zero results unless I use very specific (unintuitive) date formats. Photos repeat when scrolling search resu",
+      "cite": "App Store · UK and Ireland · 2024-10-19 · 1 stars",
+      "url": "https://apps.apple.com/gb/app/id962194608"
+    },
+    {
+      "id": "wrong_photo",
+      "label": "Search returns the wrong photo",
+      "count": 11,
+      "share": 0.01,
+      "frequency": 0.1,
+      "impact": 5.81,
+      "opportunity": 0.58,
+      "severity": 58.1,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.6364,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          9
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ],
+        [
+          "grieving",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Used to be so great Used to be so great but now after they introduced AI this past year, it’s clear that their algorithm fell apart. Try searching photos now. It’s a nightmare. I’m getting the most random scattered resul",
+      "cite": "App Store · North America · 2025-03-03 · 1 stars",
+      "url": "https://apps.apple.com/ca/app/id962194608"
+    },
+    {
+      "id": "ask_followup",
+      "label": "Ask Photos forgets the follow-up",
+      "count": 6,
+      "share": 0.0055,
+      "frequency": 0.05,
+      "impact": 4.63,
+      "opportunity": 0.23,
+      "severity": 46.3,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.5,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          4
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ],
+        [
+          "not_clear",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "if I search for any photos, then issue a follow up query, it will completely ignore the initial search results and describe some random photo from my library",
+      "cite": "App Store · UK and Ireland · 2026-06-26 · 1 stars",
+      "url": "https://apps.apple.com/gb/app/id962194608"
+    },
+    {
+      "id": "document",
+      "label": "A receipt, label, or serial number cannot be found",
+      "count": 4,
+      "share": 0.0036,
+      "frequency": 0.04,
+      "impact": 5.53,
+      "opportunity": 0.22,
+      "severity": 55.3,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.25,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          3
+        ],
+        [
+          "anxious",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "keeps_documents",
+      "sentence": "Recently I noticed a file called explore with Hippa protected documents, legal documents all exposed comes right up scrolling through.",
+      "cite": "Play Store · North America · 2026-03-27 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=33d2aef9-877c-4280-a32e-e9fc73e1bc72"
+    },
+    {
+      "id": "burst",
+      "label": "Near-identical photos, and they cannot pick the right one",
+      "count": 3,
+      "share": 0.0027,
+      "frequency": 0.03,
+      "impact": 5.3,
+      "opportunity": 0.16,
+      "severity": 53.0,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.6667,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          3
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "clunky and glitchy. can't view all photos in a burst no matter what I do. randomly did give me the three dots I needed on one burst to save each image but had not let me replicate this since. moved photos into an album a",
+      "cite": "Play Store · North America · 2026-03-13 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=1dcb33f2-20d6-463c-83ea-202639b74809"
+    },
+    {
+      "id": "vague_memory",
+      "label": "They remember a time, a color, or a feeling, and search only accepts a noun or a date",
+      "count": 2,
+      "share": 0.0018,
+      "frequency": 0.02,
+      "impact": 7.7,
+      "opportunity": 0.15,
+      "severity": 77.0,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 1.0,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          2
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "I can not just go to my photos, I must wait for memory to be to see my photos or to get to a specific person.",
+      "cite": "Play Store · North America · 2026-09-15 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=1fdb3c7f-7ee9-47a5-b5d8-1c3ed77636c1"
+    }
+  ],
+  "failures_by_opportunity": [
+    {
+      "id": "search_returns_nothing",
+      "label": "Search returns nothing",
+      "count": 498,
+      "share": 0.4531,
+      "frequency": 4.53,
+      "impact": 6.45,
+      "opportunity": 29.22,
+      "severity": 64.5,
+      "quadrant": "Critical Safety Net",
+      "failed_share": 0.7691,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          406
+        ],
+        [
+          "no_longer_trusts_search",
+          48
+        ],
+        [
+          "anxious",
+          18
+        ],
+        [
+          "grieving",
+          15
+        ],
+        [
+          "not_clear",
+          7
+        ],
+        [
+          "gave_up",
+          3
+        ],
+        [
+          "worn_down",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Very very bug-ridden Update 2024-11-03. When choosing what album to upload to, the albums are in random order which makes it a very frustrating exercise. As of the latest version (2020-08-16), it uploads around 60-70% of",
+      "cite": "App Store · UK and Ireland · 2024-11-03 · 1 stars",
+      "url": "https://apps.apple.com/gb/app/id962194608"
+    },
+    {
+      "id": "library_flood",
+      "label": "The library is so large that any result is still a flood",
+      "count": 102,
+      "share": 0.0928,
+      "frequency": 0.93,
+      "impact": 6.79,
+      "opportunity": 6.31,
+      "severity": 67.9,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.8431,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          86
+        ],
+        [
+          "no_longer_trusts_search",
+          7
+        ],
+        [
+          "grieving",
+          4
+        ],
+        [
+          "anxious",
+          4
+        ],
+        [
+          "not_clear",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "I had a recording and I can't find it and now I realized it was shared with the whole damn world because it has folders and I can't find it anymore",
+      "cite": "Play Store · North America · 2026-05-06 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=60fc451b-154c-4557-87bd-7b29ebfe4cff"
+    },
+    {
+      "id": "faces",
+      "label": "Faces are missing or the wrong person",
+      "count": 66,
+      "share": 0.0601,
+      "frequency": 0.6,
+      "impact": 6.87,
+      "opportunity": 4.12,
+      "severity": 68.7,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.803,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          59
+        ],
+        [
+          "not_clear",
+          3
+        ],
+        [
+          "grieving",
+          2
+        ],
+        [
+          "anxious",
+          1
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "The face thing automatically groups him under the other cats so I manually added a folder and started adding him. But one day it was gone and his photos went back to the other folders.",
+      "cite": "Play Store · North America · 2026-05-26 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=15ccb136-d001-47f5-a178-d3ab273efe91"
+    },
+    {
+      "id": "memories_albums",
+      "label": "Memories or albums show the wrong moment",
+      "count": 44,
+      "share": 0.04,
+      "frequency": 0.4,
+      "impact": 7.36,
+      "opportunity": 2.94,
+      "severity": 73.6,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.8864,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          37
+        ],
+        [
+          "grieving",
+          6
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "i had some good pictures the summer of 25 u deleted and they were also the 1s I wanted to keep and I cannot find any",
+      "cite": "Play Store · North America · 2026-07-27 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=9c7f59f2-3515-4723-9b16-99b10f12fc07"
+    },
+    {
+      "id": "wrong_photo",
+      "label": "Search returns the wrong photo",
+      "count": 11,
+      "share": 0.01,
+      "frequency": 0.1,
+      "impact": 5.81,
+      "opportunity": 0.58,
+      "severity": 58.1,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.6364,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          9
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ],
+        [
+          "grieving",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "Used to be so great Used to be so great but now after they introduced AI this past year, it’s clear that their algorithm fell apart. Try searching photos now. It’s a nightmare. I’m getting the most random scattered resul",
+      "cite": "App Store · North America · 2025-03-03 · 1 stars",
+      "url": "https://apps.apple.com/ca/app/id962194608"
+    },
+    {
+      "id": "ask_followup",
+      "label": "Ask Photos forgets the follow-up",
+      "count": 6,
+      "share": 0.0055,
+      "frequency": 0.05,
+      "impact": 4.63,
+      "opportunity": 0.23,
+      "severity": 46.3,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.5,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          4
+        ],
+        [
+          "no_longer_trusts_search",
+          1
+        ],
+        [
+          "not_clear",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "if I search for any photos, then issue a follow up query, it will completely ignore the initial search results and describe some random photo from my library",
+      "cite": "App Store · UK and Ireland · 2026-06-26 · 1 stars",
+      "url": "https://apps.apple.com/gb/app/id962194608"
+    },
+    {
+      "id": "document",
+      "label": "A receipt, label, or serial number cannot be found",
+      "count": 4,
+      "share": 0.0036,
+      "frequency": 0.04,
+      "impact": 5.53,
+      "opportunity": 0.22,
+      "severity": 55.3,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.25,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          3
+        ],
+        [
+          "anxious",
+          1
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "keeps_documents",
+      "sentence": "Recently I noticed a file called explore with Hippa protected documents, legal documents all exposed comes right up scrolling through.",
+      "cite": "Play Store · North America · 2026-03-27 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=33d2aef9-877c-4280-a32e-e9fc73e1bc72"
+    },
+    {
+      "id": "burst",
+      "label": "Near-identical photos, and they cannot pick the right one",
+      "count": 3,
+      "share": 0.0027,
+      "frequency": 0.03,
+      "impact": 5.3,
+      "opportunity": 0.16,
+      "severity": 53.0,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 0.6667,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          3
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "clunky and glitchy. can't view all photos in a burst no matter what I do. randomly did give me the three dots I needed on one burst to save each image but had not let me replicate this since. moved photos into an album a",
+      "cite": "Play Store · North America · 2026-03-13 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=1dcb33f2-20d6-463c-83ea-202639b74809"
+    },
+    {
+      "id": "vague_memory",
+      "label": "They remember a time, a color, or a feeling, and search only accepts a noun or a date",
+      "count": 2,
+      "share": 0.0018,
+      "frequency": 0.02,
+      "impact": 7.7,
+      "opportunity": 0.15,
+      "severity": 77.0,
+      "quadrant": "Low-Priority Nuance",
+      "failed_share": 1.0,
+      "top_region": "North America",
+      "feelings": [
+        [
+          "frustrated",
+          2
+        ]
+      ],
+      "did_next": "not_described",
+      "who": "large_library",
+      "sentence": "I can not just go to my photos, I must wait for memory to be to see my photos or to get to a specific person.",
+      "cite": "Play Store · North America · 2026-09-15 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=1fdb3c7f-7ee9-47a5-b5d8-1c3ed77636c1"
+    }
+  ],
+  "top_pain": {
+    "id": "search_returns_nothing",
+    "label": "Search returns nothing",
+    "count": 498,
+    "share": 0.4531,
+    "frequency": 4.53,
+    "impact": 6.45,
+    "opportunity": 29.22,
+    "severity": 64.5,
+    "quadrant": "Critical Safety Net",
+    "failed_share": 0.7691,
+    "top_region": "North America",
+    "feelings": [
+      [
+        "frustrated",
+        406
+      ],
+      [
+        "no_longer_trusts_search",
+        48
+      ],
+      [
+        "anxious",
+        18
+      ],
+      [
+        "grieving",
+        15
+      ],
+      [
+        "not_clear",
+        7
+      ],
+      [
+        "gave_up",
+        3
+      ],
+      [
+        "worn_down",
+        1
+      ]
+    ],
+    "did_next": "not_described",
+    "who": "large_library",
+    "sentence": "Very very bug-ridden Update 2024-11-03. When choosing what album to upload to, the albums are in random order which makes it a very frustrating exercise. As of the latest version (2020-08-16), it uploads around 60-70% of",
+    "cite": "App Store · UK and Ireland · 2024-11-03 · 1 stars",
+    "url": "https://apps.apple.com/gb/app/id962194608"
+  },
+  "search_worked": {
+    "id": "search_worked",
+    "label": "Search actually worked",
+    "count": 28,
+    "share": 0.0255,
+    "frequency": 0.25,
+    "impact": 5.7,
+    "opportunity": 1.43,
+    "severity": 57.0,
+    "quadrant": "Low-Priority Nuance",
+    "failed_share": 0.6786,
+    "top_region": "North America",
+    "feelings": [
+      [
+        "frustrated",
+        18
+      ],
+      [
+        "no_longer_trusts_search",
+        10
+      ]
+    ],
+    "did_next": "not_described",
+    "who": "large_library",
+    "sentence": "Getting worse What have they done to search and the organisation of photos? Half of my date searches now return zero results unless I use very specific (unintuitive) date formats. Photos repeat when scrolling search resu",
+    "cite": "App Store · UK and Ireland · 2024-10-19 · 1 stars",
+    "url": "https://apps.apple.com/gb/app/id962194608"
+  },
+  "does_not_fit": {
+    "id": "does_not_fit",
+    "label": "Not about finding a photo",
+    "count": 444,
+    "share": 0.404,
+    "frequency": 4.04,
+    "impact": 5.91,
+    "opportunity": 23.88,
+    "severity": 59.1,
+    "quadrant": "Critical Safety Net",
+    "failed_share": 0.6284,
+    "top_region": "North America",
+    "feelings": [
+      [
+        "frustrated",
+        258
+      ],
+      [
+        "not_clear",
+        141
+      ],
+      [
+        "grieving",
+        18
+      ],
+      [
+        "relieved",
+        15
+      ],
+      [
+        "anxious",
+        7
+      ],
+      [
+        "no_longer_trusts_search",
+        5
+      ]
+    ],
+    "did_next": "not_described",
+    "who": "large_library",
+    "sentence": "Google forces you to enable your gallery to look at your past uploads! Makes no sense On top of that, explain why it takes sometimes minutes to load a short video?",
+    "cite": "App Store · North America · 2026-08-10 · 1 stars",
+    "url": "https://apps.apple.com/us/app/id962194608"
+  },
+  "sources": [
+    {
+      "source": "playstore",
+      "label": "Play Store",
+      "count": 838,
+      "share": 0.7625,
+      "year_min": "2026",
+      "year_max": "2026",
+      "peak_year": "2026"
+    },
+    {
+      "source": "reddit",
+      "label": "Reddit",
+      "count": 187,
+      "share": 0.1702,
+      "year_min": "2010",
+      "year_max": "2026",
+      "peak_year": "2026"
+    },
+    {
+      "source": "appstore",
+      "label": "App Store",
+      "count": 55,
+      "share": 0.05,
+      "year_min": "2024",
+      "year_max": "2026",
+      "peak_year": "2026"
+    },
+    {
+      "source": "web",
+      "label": "Web",
+      "count": 10,
+      "share": 0.0091,
+      "year_min": null,
+      "year_max": null,
+      "peak_year": null
+    },
+    {
+      "source": "youtube",
+      "label": "YouTube",
+      "count": 9,
+      "share": 0.0082,
+      "year_min": null,
+      "year_max": null,
+      "peak_year": null
+    }
+  ],
+  "years": [
+    {
+      "year": "2010",
+      "count": 1
+    },
+    {
+      "year": "2011",
+      "count": 1
+    },
+    {
+      "year": "2012",
+      "count": 5
+    },
+    {
+      "year": "2013",
+      "count": 1
+    },
+    {
+      "year": "2015",
+      "count": 2
+    },
+    {
+      "year": "2016",
+      "count": 2
+    },
+    {
+      "year": "2017",
+      "count": 4
+    },
+    {
+      "year": "2018",
+      "count": 8
+    },
+    {
+      "year": "2019",
+      "count": 6
+    },
+    {
+      "year": "2020",
+      "count": 11
+    },
+    {
+      "year": "2021",
+      "count": 14
+    },
+    {
+      "year": "2022",
+      "count": 13
+    },
+    {
+      "year": "2023",
+      "count": 12
+    },
+    {
+      "year": "2024",
+      "count": 39
+    },
+    {
+      "year": "2025",
+      "count": 41
+    },
+    {
+      "year": "2026",
+      "count": 920
+    }
+  ],
+  "ratings": {
+    "average": 2.07,
+    "rated_count": 893,
+    "unrated_count": 206,
+    "histogram": [
+      {
+        "star": 1,
+        "count": 494
+      },
+      {
+        "star": 2,
+        "count": 121
+      },
+      {
+        "star": 3,
+        "count": 100
+      },
+      {
+        "star": 4,
+        "count": 77
+      },
+      {
+        "star": 5,
+        "count": 101
+      }
+    ]
+  },
+  "screens": [
+    {
+      "screen": "Search",
+      "count": 272,
+      "hard_share": 0.9375
+    },
+    {
+      "screen": "Faces",
+      "count": 55,
+      "hard_share": 0.9455
+    },
+    {
+      "screen": "Albums",
+      "count": 51,
+      "hard_share": 1.0
+    },
+    {
+      "screen": "Ask Photos",
+      "count": 13,
+      "hard_share": 0.7692
+    },
+    {
+      "screen": "Timeline",
+      "count": 12,
+      "hard_share": 0.9167
+    },
+    {
+      "screen": "Memories",
+      "count": 10,
+      "hard_share": 0.9
+    }
+  ],
+  "unnamed_screen": 686,
+  "looking_for": [
+    {
+      "label": "a specific object",
+      "count": 135
+    },
+    {
+      "label": "an old event",
+      "count": 83
+    },
+    {
+      "label": "a person",
+      "count": 63
+    },
+    {
+      "label": "a screenshot",
+      "count": 25
+    },
+    {
+      "label": "a place or trip",
+      "count": 14
+    },
+    {
+      "label": "a document or receipt",
+      "count": 6
+    }
+  ],
+  "who": [
+    {
+      "id": "large_library",
+      "label": "Large libraries",
+      "count": 84
+    },
+    {
+      "id": "keeps_documents",
+      "label": "People who keep documents",
+      "count": 13
+    },
+    {
+      "id": "parent",
+      "label": "Parents",
+      "count": 11
+    },
+    {
+      "id": "traveler",
+      "label": "Travelers",
+      "count": 9
+    },
+    {
+      "id": "older_library",
+      "label": "Older libraries",
+      "count": 8
+    },
+    {
+      "id": "student",
+      "label": "Students",
+      "count": 3
+    }
+  ],
+  "who_not_said": 971,
+  "feelings": [
+    {
+      "id": "frustrated",
+      "label": "Frustrated",
+      "count": 796
+    },
+    {
+      "id": "no_longer_trusts_search",
+      "label": "No longer trusts search",
+      "count": 62
+    },
+    {
+      "id": "grieving",
+      "label": "Grieving a photo",
+      "count": 41
+    },
+    {
+      "id": "anxious",
+      "label": "Anxious",
+      "count": 28
+    },
+    {
+      "id": "relieved",
+      "label": "Relieved",
+      "count": 15
+    },
+    {
+      "id": "gave_up",
+      "label": "Gave up",
+      "count": 3
+    },
+    {
+      "id": "worn_down",
+      "label": "Worn down",
+      "count": 1
+    }
+  ],
+  "feeling_not_clear": 153,
+  "did_next": [
+    {
+      "id": "scrolled",
+      "label": "Scrolled",
+      "count": 24
+    },
+    {
+      "id": "said_they_gave_up",
+      "label": "Said they gave up",
+      "count": 12
+    },
+    {
+      "id": "asked_someone",
+      "label": "Asked someone else",
+      "count": 10
+    },
+    {
+      "id": "rebuilt_albums",
+      "label": "Rebuilt albums",
+      "count": 1
+    }
+  ],
+  "did_next_not_described": 1052,
+  "remembers": [
+    {
+      "label": "how it looked",
+      "count": 81
+    },
+    {
+      "label": "a rough time",
+      "count": 25
+    },
+    {
+      "label": "who was there",
+      "count": 19
+    },
+    {
+      "label": "how it felt",
+      "count": 17
+    }
+  ],
+  "missing": [
+    {
+      "label": "the exact date",
+      "count": 58
+    },
+    {
+      "label": "the person's name",
+      "count": 14
+    },
+    {
+      "label": "the album name",
+      "count": 13
+    },
+    {
+      "label": "the place name",
+      "count": 7
+    },
+    {
+      "label": "the object's name",
+      "count": 2
+    }
+  ],
+  "pairs": [
+    {
+      "label": "how it looked + who was there",
+      "count": 8
+    },
+    {
+      "label": "how it felt + who was there",
+      "count": 7
+    },
+    {
+      "label": "how it felt + how it looked",
+      "count": 6
+    },
+    {
+      "label": "a rough time + how it looked",
+      "count": 5
+    },
+    {
+      "label": "a rough time + how it felt",
+      "count": 4
+    },
+    {
+      "label": "a rough time + who was there",
+      "count": 3
+    }
+  ],
+  "described_query": 191,
+  "query_steps": [
+    {
+      "source": "start",
+      "target": "a natural phrase",
+      "value": 84
+    },
+    {
+      "source": "start",
+      "target": "keywords",
+      "value": 71
+    },
+    {
+      "source": "keywords",
+      "target": "abandoned",
+      "value": 53
+    },
+    {
+      "source": "a short last try",
+      "target": "abandoned",
+      "value": 40
+    },
+    {
+      "source": "a natural phrase",
+      "target": "abandoned",
+      "value": 38
+    },
+    {
+      "source": "start",
+      "target": "a short last try",
+      "value": 36
+    },
+    {
+      "source": "a natural phrase",
+      "target": "keywords",
+      "value": 24
+    },
+    {
+      "source": "keywords",
+      "target": "a short last try",
+      "value": 19
+    },
+    {
+      "source": "a short last try",
+      "target": "retrieved_with_friction",
+      "value": 13
+    },
+    {
+      "source": "keywords",
+      "target": "unknown",
+      "value": 12
+    },
+    {
+      "source": "a natural phrase",
+      "target": "unknown",
+      "value": 10
+    },
+    {
+      "source": "keywords",
+      "target": "retrieved_with_friction",
+      "value": 10
+    },
+    {
+      "source": "a natural phrase",
+      "target": "retrieved_with_friction",
+      "value": 7
+    },
+    {
+      "source": "a natural phrase",
+      "target": "a short last try",
+      "value": 5
+    },
+    {
+      "source": "a short last try",
+      "target": "unknown",
+      "value": 5
+    },
+    {
+      "source": "a short last try",
+      "target": "social_offload",
+      "value": 2
+    },
+    {
+      "source": "keywords",
+      "target": "social_offload",
+      "value": 1
+    }
+  ],
+  "recent": [
+    {
+      "sentence": "I don't know which photos are saved, where or if they are stored seemingly cannot be retrievable anyhow.",
+      "cite": "Play Store · North America · 2026-09-22 · 4 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=d661c8b3-3006-495c-853d-f1b8ae6bff74",
+      "pains": [
+        "Search returns nothing"
+      ]
+    },
+    {
+      "sentence": "I hate that I have to scroll through all these unnecessary photos that aren't backed up(for a reason) before I get to the photos that I'm looking for that aren't showing under the search.",
+      "cite": "Play Store · North America · 2026-09-21 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=43a0d86c-0f6c-43c8-934c-e862c866ff9c",
+      "pains": [
+        "The library is so large that any result is still a flood",
+        "Search returns nothing"
+      ]
+    },
+    {
+      "sentence": "Can't find my device photos even if I backed everything up. I can't also find it in my files.",
+      "cite": "Play Store · North America · 2026-09-21 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=821b9c14-cf6b-4c54-8c7a-6d0b10048fc0",
+      "pains": [
+        "Search returns nothing"
+      ]
+    },
+    {
+      "sentence": "has only gotten less useful over time. ive spent hours trying to get a photo album from my phone to Google photos.",
+      "cite": "Play Store · North America · 2026-09-21 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=4eab7b81-581b-47a8-ab0d-c37b86f5d3d9",
+      "pains": [
+        "Not about finding a photo"
+      ]
+    },
+    {
+      "sentence": "can't see my photos @ all ! I keep getting this message saying go to Google Settings!",
+      "cite": "Play Store · North America · 2026-09-21 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=051f67d4-79bb-4657-a839-0e37be3c73c8",
+      "pains": [
+        "Search returns nothing"
+      ]
+    },
+    {
+      "sentence": "You star a photo and can't find it elsewhere.",
+      "cite": "Play Store · North America · 2026-09-20 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=942c4795-6c73-47ba-8de5-df1a59160977",
+      "pains": [
+        "Search returns nothing"
+      ]
+    },
+    {
+      "sentence": "my photos disappeared from this app downloaded it again not sure it is safe",
+      "cite": "Play Store · North America · 2026-09-20 · 1 stars",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=3f671bb5-a14d-43e8-b539-6a0c2d5fa777",
+      "pains": [
+        "Not about finding a photo"
+      ]
+    },
+    {
+      "sentence": "when I search for \"dog\" , only 6 pictures come up (4 from 2015, 2 from this year???) even though I am SURE I have more dog photos",
+      "cite": "Reddit · Reddit, no country · 2026-09-19",
+      "url": "https://www.reddit.com/r/googlephotos/comments/1wkh4be/search_function_only_shows_very_few_photos/",
+      "pains": [
+        "Search returns nothing"
+      ]
+    }
+  ],
+  "coverage": {
+    "year_2026": 920,
+    "year_2026_share": 0.8371,
+    "play_store": 838
+  },
+  "raw_ingested": 17803,
+  "builds": [
+    {
+      "id": "search_returns_nothing",
+      "cause": "Search indexing fails to capture photo metadata and content, leaving queries with no results.",
+      "build": "Add a search diagnostics tool that shows users why a query returned nothing and suggests alternative search terms or filters.",
+      "why": "Users need to understand what went wrong and have a path forward instead of hitting a dead end."
+    },
+    {
+      "id": "library_flood",
+      "cause": "Search results lack filtering and sorting options, so even successful queries return thousands of photos.",
+      "build": "Build multi-faceted filters that let users narrow results by date range, location, album, person, and content type before viewing.",
+      "why": "A massive result set is as useless as no results; users need to progressively refine their search."
+    },
+    {
+      "id": "faces",
+      "cause": "Face recognition groups are unstable and manual corrections are not persisted or are overwritten by re-indexing.",
+      "build": "Create a locked face group feature that prevents automatic re-clustering from overwriting user-confirmed face identities.",
+      "why": "Users invest time organizing faces manually and lose that work, breaking trust in the feature."
+    },
+    {
+      "id": "memories_albums",
+      "cause": "Automatic memory and album generation uses flawed date or content logic, surfacing wrong moments or deleting curated selections.",
+      "build": "Let users set rules for what gets included in memories and albums, and show them a preview before auto-generation runs.",
+      "why": "Users want control over what moments are highlighted and need visibility into why certain photos were chosen or removed."
+    },
+    {
+      "id": "wrong_photo",
+      "cause": "AI-powered search ranking prioritizes irrelevant results due to poor semantic understanding or over-matching.",
+      "build": "Add a feedback mechanism where users can mark results as irrelevant, and show ranking confidence scores for each result.",
+      "why": "Users need to correct the algorithm and understand why a photo ranked high so they can adjust their query."
+    },
+    {
+      "id": "ask_followup",
+      "cause": "The conversational search context is not maintained between queries, so follow-up questions lose the prior search scope.",
+      "build": "Display the active search context and let users edit or clear it before issuing a follow-up query.",
+      "why": "Users expect natural conversation flow and need to see what context is being used for their next question."
+    },
+    {
+      "id": "document",
+      "cause": "OCR and document detection are enabled by default without user consent, exposing sensitive text in search and browse.",
+      "build": "Add a document sensitivity setting that lets users exclude or hide documents containing text patterns like dates, numbers, or keywords.",
+      "why": "Users need control over whether sensitive documents are indexed and searchable to protect privacy."
+    },
+    {
+      "id": "burst",
+      "cause": "Burst photo selection UI is inconsistent and does not reliably show all frames or allow bulk actions.",
+      "build": "Build a dedicated burst viewer that displays all frames in a grid, lets users select and delete multiple frames at once, and saves selections reliably.",
+      "why": "Users need a stable, predictable way to review and manage burst sequences without losing their selections."
+    },
+    {
+      "id": "vague_memory",
+      "cause": "Search only accepts structured queries like nouns and dates, not descriptive language like colors, moods, or seasons.",
+      "build": "Expand search to accept natural language descriptors like color, weather, emotion, and time-of-day, and map them to photo metadata.",
+      "why": "Users often remember photos by feeling or appearance, not by exact dates or names, and need search to match how memory works."
+    }
+  ]
+}

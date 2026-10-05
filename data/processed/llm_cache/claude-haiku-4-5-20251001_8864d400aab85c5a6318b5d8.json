@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"pains\": [],\n  \"screen\": \"not_named\",\n  \"looking_for\": \"not_said\",\n  \"still_remembers\": [],\n  \"missing\": [],\n  \"who\": \"not_said\",\n  \"feeling\": \"frustrated\",\n  \"did_next\": \"not_described\",\n  \"sentence\": \"Yo, GOOGLE PHOTOS, put my images back.\"\n}\n```", "usage": {"input_tokens": 770, "output_tokens": 104}}

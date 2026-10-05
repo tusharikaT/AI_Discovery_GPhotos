@@ -1,0 +1,10 @@
+{
+  "web": {
+    "off_topic_seed": 37,
+    "noise_storage_quota": 1,
+    "spam_promo": 1,
+    "noise_account_security": 1,
+    "duplicate": 4,
+    "noise_billing_pricing": 6
+  }
+}

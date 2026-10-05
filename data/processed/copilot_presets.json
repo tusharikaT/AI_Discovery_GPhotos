@@ -1,0 +1,943 @@
+[
+  {
+    "ok": true,
+    "answer": {
+      "executive_finding": "Users struggle to retrieve old photos due to search limitations, unclear storage locations, and degraded search functionality that cannot handle multiple parameters or recognize photo metadata.",
+      "key_behaviors": [
+        "Scrolling through thousands of photos to find a specific shot",
+        "Searching by resolution, MP size, or file name format for old photos",
+        "Sorting photos into albums as an organization strategy",
+        "Attempting to retrieve photos from trash",
+        "Trying to search by multiple parameters like person and location",
+        "Searching by keywords in the app or web interface",
+        "Turning backup on and off to troubleshoot search issues"
+      ],
+      "memory_gap": "Users remember the scene or content of photos but not the date, folder, or file name. They expect search to work with keywords, notes, face recognition, and multiple combined parameters, but the system does not deliver these capabilities for old photos.",
+      "who": "The reviews describe individual users of Google Photos across Reddit and Play Store, ranging from casual users to those with large archives (53K+ photos) and working photographers.",
+      "cited_ids": [
+        "5946f8cdd6fa857f454e",
+        "40f079930989e5b28d12",
+        "fd342f5b8ff9304bb233",
+        "d6f6cd4ba3f6e5677d0d",
+        "ff9c1565900c8ff9e6c5",
+        "0f1e2360f4f8fba1b2ea",
+        "e86f5fe6cc464fe54d9d",
+        "5eeae941fcb25d2c89a3",
+        "58425f80e9350e646e47",
+        "584a9065c0e634911b61",
+        "007bcaf307f7200528d5",
+        "76874106bc657dbbc592",
+        "a507185bb36a7cc2af48",
+        "1d97007d31b667103635",
+        "1dafe81829bf800e5d99"
+      ],
+      "reviews": [
+        {
+          "record_id": "5946f8cdd6fa857f454e",
+          "text": "Old Pictures (not backed up) shows in \"Help Improve Google Photos\" There's some pictures isn't backed up in photos but when i go to search>help improve google photos. Some old photos google shows 🙄 wtf! Anyone facing the same?",
+          "sentence": "Old Pictures (not backed up) shows in \"Help Improve Google Photos\" There's some pictures isn't backed up in photos but when i go to search>help improve google photos. Some old photos google shows 🙄 wtf! Anyone facing the",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "an old event",
+          "cite": "Reddit · Reddit, no country · 2021-05-22",
+          "url": "https://www.reddit.com/r/googlephotos/comments/niqe6b/old_pictures_not_backed_up_shows_in_help_improve/",
+          "distance": 0.2361167073249817
+        },
+        {
+          "record_id": "40f079930989e5b28d12",
+          "text": "How do you find one specific old shot in an archive of thousands? I've got years of photos across a few external drives and finding one specific shot has become painful. I remember the scene but not the date or folder, so I end up scrolling for ages. Curious how others handle this: How do you organize your archive right now? Last time you had to dig out one specific old shot, how did it actually go? Roughly how much time do you lose to this in a typical week? Have you tried any tools for searching your photos by what's in them, and did they stick? Not looking to be sold anything, just want to hear how working photographers deal with this. Thanks.",
+          "sentence": "I remember the scene but not the date or folder, so I end up scrolling for ages.",
+          "pains": [
+            "The library is so large that any result is still a flood",
+            "They remember a time, a color, or a feeling, and search only accepts a noun or a date"
+          ],
+          "screen": "not_named",
+          "looking_for": "a specific object",
+          "cite": "Reddit · Reddit, no country · 2026-07-18",
+          "url": "https://www.reddit.com/r/photography/comments/1v07f43/how_do_you_find_one_specific_old_shot_in_an/",
+          "distance": 0.23815971612930298
+        },
+        {
+          "record_id": "fd342f5b8ff9304bb233",
+          "text": "sometimes very difficult to find the photos that are saved. The app does not always tell you where it decides to save them so they become hidden photos.",
+          "sentence": "sometimes very difficult to find the photos that are saved. The app does not always tell you where it decides to save them so they become hidden photos.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-24 · 2 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=dc2e8e94-dc16-4dc4-bc57-b815b33f0c8d",
+          "distance": 0.24075281620025635
+        },
+        {
+          "record_id": "d6f6cd4ba3f6e5677d0d",
+          "text": "Sometimes an image or download image is hard to find. seriously quite irritating when I am using google photos.",
+          "sentence": "Sometimes an image or download image is hard to find. seriously quite irritating when I am using google photos.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-06-12 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=9d89e9dd-3b31-47c8-a0a7-580e61d45e58",
+          "distance": 0.2408294677734375
+        },
+        {
+          "record_id": "ff9c1565900c8ff9e6c5",
+          "text": "I don't know which photos are saved, where or if they are stored seemingly cannot be retrievable anyhow.",
+          "sentence": "I don't know which photos are saved, where or if they are stored seemingly cannot be retrievable anyhow.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-09-22 · 4 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=d661c8b3-3006-495c-853d-f1b8ae6bff74",
+          "distance": 0.24166905879974365
+        },
+        {
+          "record_id": "0f1e2360f4f8fba1b2ea",
+          "text": "i have no clue how to get the pictures and videos from the old fotos or recent ,i would love to get help getting them all .",
+          "sentence": "i have no clue how to get the pictures and videos from the old fotos or recent ,i would love to get help getting them all",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-03-06 · 5 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=f8387252-6d24-438a-8f86-18e835576841",
+          "distance": 0.24608498811721802
+        },
+        {
+          "record_id": "e86f5fe6cc464fe54d9d",
+          "text": "every time this updates it gets more difficult to find photos. Response isn't helpful. I sort my photos into albums, but the album titles vanish and I'm left with sorting through thousands of files to find one because they aren't named except by download numbers. Difficult to find number xxxxxxxxxxxxcccdd among thousands of similar numbers.",
+          "sentence": "I sort my photos into albums, but the album titles vanish and I'm left with sorting through thousands of files to find one because they aren't named except by download numbers.",
+          "pains": [
+            "Memories or albums show the wrong moment",
+            "The library is so large that any result is still a flood"
+          ],
+          "screen": "Albums",
+          "looking_for": "a specific object",
+          "cite": "Play Store · North America · 2026-08-04 · 3 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=c9e7d180-0f7f-48b1-a4e9-4735fbdc8ccf",
+          "distance": 0.25202780961990356
+        },
+        {
+          "record_id": "5eeae941fcb25d2c89a3",
+          "text": "I can't retrieve a lost photo that I'm trying to find in the trash",
+          "sentence": "I can't retrieve a lost photo that I'm trying to find in the trash",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "a specific object",
+          "cite": "Play Store · North America · 2026-08-31 · 5 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=981c1891-6214-4d21-aa17-52990e37508a",
+          "distance": 0.2544170618057251
+        },
+        {
+          "record_id": "58425f80e9350e646e47",
+          "text": "Archive old Snapchat photos I'm trying to find a way to find and archive old snapchat photos I saved from 10 years ago. I've tried searching by resolution, and MP size, but that doesn't seem to be working. There is also a specific file name format, but I'm not sure if I can search by that method. Any ideas?",
+          "sentence": "I've tried searching by resolution, and MP size, but that doesn't seem to be working.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "an old event",
+          "cite": "Reddit · Reddit, no country · 2024-02-27",
+          "url": "https://www.reddit.com/r/googlephotos/comments/1b1f8op/archive_old_snapchat_photos/",
+          "distance": 0.2621302604675293
+        },
+        {
+          "record_id": "584a9065c0e634911b61",
+          "text": "there's a glitch happening now where I'm not able to see my old photos that are not on the device from certain accounts, even though the albums and memories are working fine from that period. very funny glitch I must say because I'm able to see the album but not the photo when I go to the photos gallery",
+          "sentence": "there's a glitch happening now where I'm not able to see my old photos that are not on the device from certain accounts",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Play Store · North America · 2026-05-04 · 4 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=dd8b6805-782b-49af-b8ea-a25fd78c2bd1",
+          "distance": 0.2625706195831299
+        },
+        {
+          "record_id": "007bcaf307f7200528d5",
+          "text": "Is Google Photos suffering from dementia? I'm experiencing a rather annoying problem. I have 53K+ photos (88GB) stored on my Google account Over the past 4-5 months Google Photos gotten increasingly.. well dumb.. Face recognition is completely shot and the search function can no longer handle the rather simple task of combining 2 search parameters like person + location. It doesn't even take notes on the photos into consideration when searching anymore. Earlier that was a sure way to find specific photos in a search, but now NOTHING! Like what the h...? So what happened? Are Google actively working the problem? Or am I forced to find another service?",
+          "sentence": "Face recognition is completely shot and the search function can no longer handle the rather simple task of combining 2 search parameters like person + location.",
+          "pains": [
+            "Search returns nothing",
+            "Faces are missing or the wrong person"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Reddit · Reddit, no country · 2024-11-24",
+          "url": "https://www.reddit.com/r/googlephotos/comments/1gyv4wt/is_google_photos_suffering_from_dementia/",
+          "distance": 0.2669137716293335
+        },
+        {
+          "record_id": "76874106bc657dbbc592",
+          "text": "Hard to find new photos when you add them these days. Really have to hunt hard. Don't remember it being like that in the past.",
+          "sentence": "Hard to find new photos when you add them these days. Really have to hunt hard. Don't remember it being like that in the past.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-07-13 · 2 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=ff46dc92-4602-48ab-8d78-6095db4b72b5",
+          "distance": 0.2681525945663452
+        },
+        {
+          "record_id": "a507185bb36a7cc2af48",
+          "text": "it's very good at keeping photos, even if your device is lost. but I'm finding it difficult to review some of my old photos",
+          "sentence": "I'm finding it difficult to review some of my old photos",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Play Store · North America · 2026-07-31 · 4 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=47c90ad3-7c20-4f90-8dfb-b06701b74502",
+          "distance": 0.2694694995880127
+        },
+        {
+          "record_id": "1d97007d31b667103635",
+          "text": "Search only shows old photos from years ago, no new photos When I search for keywords in the Google photos app or on the web, I only get results from photos I've backed up from an old phone, from 2023 or earlier. No photos I've taken with my current phone show up. All the photos are backed up in the cloud and I've tried turning backup on and off. I can't find any solutions online. Anyone else had this issue?",
+          "sentence": "Search only shows old photos from years ago, no new photos When I search for keywords in the Google photos app or on the web, I only get results from photos I've backed up from an old phone, from 2023 or earlier.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Reddit · Reddit, no country · 2026-03-19",
+          "url": "https://www.reddit.com/r/googlephotos/comments/1ry4xbq/search_only_shows_old_photos_from_years_ago_no/",
+          "distance": 0.27060186862945557
+        },
+        {
+          "record_id": "1dafe81829bf800e5d99",
+          "text": "this app does not work for me to see pictures that were taken years ago? I can't see any of my pictures or restore them",
+          "sentence": "this app does not work for me to see pictures that were taken years ago? I can't see any of my pictures",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Play Store · North America · 2026-03-05 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=0da7c896-fa43-4ebe-aa4f-5906014cf3e2",
+          "distance": 0.270868182182312
+        }
+      ]
+    },
+    "question": "What kinds of old photos do users struggle to retrieve?"
+  },
+  {
+    "ok": true,
+    "answer": {
+      "executive_finding": "People remember photos by visual scene, people's faces, dates, and manually added notes, but Google Photos search increasingly fails to retrieve photos using these remembered details.",
+      "key_behaviors": [
+        "Scrolling through archives for ages to find a specific shot",
+        "Remembering the scene but not the date or folder",
+        "Manually tagging unrecognized people in photo descriptions as a workaround",
+        "Writing names in description fields to enable searching",
+        "Searching by date, person, location, and photo notes",
+        "Attempting to search by resolution and file size"
+      ],
+      "memory_gap": "People remember visual scenes, faces of people in photos, approximate dates, and content they added as notes. The reviews do not describe what other details people remember about photos.",
+      "who": "The reviews describe individual Google Photos users with varying archive sizes, including working photographers, people with family photos, and users with old scanned photos.",
+      "cited_ids": [
+        "40f079930989e5b28d12",
+        "007bcaf307f7200528d5",
+        "dbf7f03e2082db9beda3",
+        "fd342f5b8ff9304bb233",
+        "8509ee3e96334c162139",
+        "136419cfff242d3d209e",
+        "ff9c1565900c8ff9e6c5",
+        "a1bfee84a920b5dad3e3",
+        "e0367096f1e983519d00",
+        "19e113f3a2b2be375588",
+        "b3c99376e809b4bf7941",
+        "a507185bb36a7cc2af48",
+        "95ad5dcc812eeeed67c2",
+        "5946f8cdd6fa857f454e",
+        "58425f80e9350e646e47"
+      ],
+      "reviews": [
+        {
+          "record_id": "40f079930989e5b28d12",
+          "text": "How do you find one specific old shot in an archive of thousands? I've got years of photos across a few external drives and finding one specific shot has become painful. I remember the scene but not the date or folder, so I end up scrolling for ages. Curious how others handle this: How do you organize your archive right now? Last time you had to dig out one specific old shot, how did it actually go? Roughly how much time do you lose to this in a typical week? Have you tried any tools for searching your photos by what's in them, and did they stick? Not looking to be sold anything, just want to hear how working photographers deal with this. Thanks.",
+          "sentence": "I remember the scene but not the date or folder, so I end up scrolling for ages.",
+          "pains": [
+            "The library is so large that any result is still a flood",
+            "They remember a time, a color, or a feeling, and search only accepts a noun or a date"
+          ],
+          "screen": "not_named",
+          "looking_for": "a specific object",
+          "cite": "Reddit · Reddit, no country · 2026-07-18",
+          "url": "https://www.reddit.com/r/photography/comments/1v07f43/how_do_you_find_one_specific_old_shot_in_an/",
+          "distance": 0.3441258668899536
+        },
+        {
+          "record_id": "007bcaf307f7200528d5",
+          "text": "Is Google Photos suffering from dementia? I'm experiencing a rather annoying problem. I have 53K+ photos (88GB) stored on my Google account Over the past 4-5 months Google Photos gotten increasingly.. well dumb.. Face recognition is completely shot and the search function can no longer handle the rather simple task of combining 2 search parameters like person + location. It doesn't even take notes on the photos into consideration when searching anymore. Earlier that was a sure way to find specific photos in a search, but now NOTHING! Like what the h...? So what happened? Are Google actively working the problem? Or am I forced to find another service?",
+          "sentence": "Face recognition is completely shot and the search function can no longer handle the rather simple task of combining 2 search parameters like person + location.",
+          "pains": [
+            "Search returns nothing",
+            "Faces are missing or the wrong person"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Reddit · Reddit, no country · 2024-11-24",
+          "url": "https://www.reddit.com/r/googlephotos/comments/1gyv4wt/is_google_photos_suffering_from_dementia/",
+          "distance": 0.34488487243652344
+        },
+        {
+          "record_id": "dbf7f03e2082db9beda3",
+          "text": "Search for photos of younger person Anyone know if there is a way to find pictures of someone when they were younger? For example, I scanned in a bunch of old photos at various times, so I can't just scroll back to find pictures of young me. I wish I could find all of them as I feel like Google face recognition knows this already.",
+          "sentence": "I scanned in a bunch of old photos at various times, so I can't just scroll back to find pictures of young me.",
+          "pains": [
+            "Search returns nothing",
+            "Faces are missing or the wrong person"
+          ],
+          "screen": "Search",
+          "looking_for": "a person",
+          "cite": "Reddit · Reddit, no country · 2022-11-02",
+          "url": "https://www.reddit.com/r/googlephotos/comments/yjrhlj/search_for_photos_of_younger_person/",
+          "distance": 0.3575845956802368
+        },
+        {
+          "record_id": "fd342f5b8ff9304bb233",
+          "text": "sometimes very difficult to find the photos that are saved. The app does not always tell you where it decides to save them so they become hidden photos.",
+          "sentence": "sometimes very difficult to find the photos that are saved. The app does not always tell you where it decides to save them so they become hidden photos.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-24 · 2 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=dc2e8e94-dc16-4dc4-bc57-b815b33f0c8d",
+          "distance": 0.35941362380981445
+        },
+        {
+          "record_id": "8509ee3e96334c162139",
+          "text": "You forgot about it's hiding recently taken pictures, like you take a picture and now ask photos where the picture I just took, and it's like what photo? Wanna see you from 3 years in the past?",
+          "sentence": "you take a picture and now ask photos where the picture I just took, and it's like what photo?",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Ask Photos",
+          "looking_for": "a specific object",
+          "cite": "YouTube · YouTube",
+          "url": "https://www.youtube.com/watch?v=wlla6bDDDds",
+          "distance": 0.36080706119537354
+        },
+        {
+          "record_id": "136419cfff242d3d209e",
+          "text": "Excellent Appreciate 👌😃 thanks for your help to remember our family members memories for available in every corner of world records. BUT RECENTLY WE ARE FACING SEARCH BY PHOTO AS PRIVIOUSLY IT WAS VERY EASY TO SEGREGATE THE FACEWISE SEARCHING",
+          "sentence": "RECENTLY WE ARE FACING SEARCH BY PHOTO AS PRIVIOUSLY IT WAS VERY EASY TO SEGREGATE THE FACEWISE SEARCHING",
+          "pains": [
+            "Search actually worked"
+          ],
+          "screen": "Faces",
+          "looking_for": "a person",
+          "cite": "Play Store · North America · 2026-03-30 · 5 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=75784ed2-107c-4701-b182-32e8bbd026d9",
+          "distance": 0.3624368906021118
+        },
+        {
+          "record_id": "ff9c1565900c8ff9e6c5",
+          "text": "I don't know which photos are saved, where or if they are stored seemingly cannot be retrievable anyhow.",
+          "sentence": "I don't know which photos are saved, where or if they are stored seemingly cannot be retrievable anyhow.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-09-22 · 4 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=d661c8b3-3006-495c-853d-f1b8ae6bff74",
+          "distance": 0.3655754327774048
+        },
+        {
+          "record_id": "a1bfee84a920b5dad3e3",
+          "text": "Baffling UI choices continue. Want to easily find a photo from a certain date using easy visuals? Tough. It's now a homogeneous mess that just dumps all your photos together with no separation. It gives a vague date at the top, but you might have three photos in a row from two different days. Don't worry, that doesn't matter because now photos uses ✨AI✨ because of course it does.",
+          "sentence": "It's now a homogeneous mess that just dumps all your photos together with no separation.",
+          "pains": [
+            "Search returns nothing",
+            "The library is so large that any result is still a flood"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Play Store · North America · 2026-07-19 · 2 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=adb334f0-4f47-4a1b-8652-8697a05bec04",
+          "distance": 0.3687857985496521
+        },
+        {
+          "record_id": "e0367096f1e983519d00",
+          "text": "Search in google photos is poor When I search based on date i don’t get all the pics that I took on that day. Also searching based on named photo doesn’t cater to spelling or similar words. Hence if I am using for some creative business like reel creation et it’s not very helpful. For example Jathiswaram Kalyani and Kalyani Jathiswaram don’t show up if I write Jathiswara",
+          "sentence": "Search in google photos is poor When I search based on date i don’t get all the pics that I took on that day. Also searching based on named photo doesn’t cater to spelling or similar words. Hence if I am using for some c",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "a specific object",
+          "cite": "App Store · Australia and New Zealand · 2026-08-04 · 3 stars",
+          "url": "https://apps.apple.com/au/app/id962194608",
+          "distance": 0.3708003759384155
+        },
+        {
+          "record_id": "19e113f3a2b2be375588",
+          "text": "I can't seem to find pics I need for memories. Since updating, I was just looking at a vid Google had out together and I was going to change out one of the pics & now I can't find the video. 🤔 Other than that, I've always loved using Google photos.🫶",
+          "sentence": "I can't seem to find pics I need for memories. Since updating, I was just looking at a vid Google had out together and I was going to change out one of the pics & now I can't find the video.",
+          "pains": [
+            "Search returns nothing",
+            "Memories or albums show the wrong moment"
+          ],
+          "screen": "Memories",
+          "looking_for": "a specific object",
+          "cite": "Play Store · North America · 2026-06-09 · 3 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=33e1f83e-ce65-4138-ab7e-9e0356b405ba",
+          "distance": 0.37110453844070435
+        },
+        {
+          "record_id": "b3c99376e809b4bf7941",
+          "text": "so nice keeping safe my memories but still I am trying to find my missing photos",
+          "sentence": "still I am trying to find my missing photos",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-03-09 · 5 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=9584d3cf-2c9d-45e5-9db1-a9a59b71b11e",
+          "distance": 0.3753401041030884
+        },
+        {
+          "record_id": "a507185bb36a7cc2af48",
+          "text": "it's very good at keeping photos, even if your device is lost. but I'm finding it difficult to review some of my old photos",
+          "sentence": "I'm finding it difficult to review some of my old photos",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Play Store · North America · 2026-07-31 · 4 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=47c90ad3-7c20-4f90-8dfb-b06701b74502",
+          "distance": 0.37916457653045654
+        },
+        {
+          "record_id": "95ad5dcc812eeeed67c2",
+          "text": "Helpful hack: How I manually tag unrecognized people in my photos Google Photos does not currently allow manually tagging faces and frequently can't find some faces on the pictures. Here is a little trick I found to search for the unrecognized person's photos. Simply write names of unrecognized people in the description field. I personally write them exactly how I have them in my contacts. Now you can search for the name of the person and find their photos even if no faces were recognized on the photo. Unfortunately, the photos you manually named will not link to the person's profile but if you search their name in the search field the results will pop up. This is helpful especially with lower resolution or old photos. For example: I scanned all black/white photos of my great-grandmother. Most of faces were not recognized. However, I still can search her name and get all her photos now.",
+          "sentence": "Google Photos does not currently allow manually tagging faces and frequently can't find some faces on the pictures.",
+          "pains": [
+            "Faces are missing or the wrong person"
+          ],
+          "screen": "Search",
+          "looking_for": "a person",
+          "cite": "Reddit · Reddit, no country · 2021-08-16",
+          "url": "https://www.reddit.com/r/googlephotos/comments/p55on7/helpful_hack_how_i_manually_tag_unrecognized/",
+          "distance": 0.37950873374938965
+        },
+        {
+          "record_id": "5946f8cdd6fa857f454e",
+          "text": "Old Pictures (not backed up) shows in \"Help Improve Google Photos\" There's some pictures isn't backed up in photos but when i go to search>help improve google photos. Some old photos google shows 🙄 wtf! Anyone facing the same?",
+          "sentence": "Old Pictures (not backed up) shows in \"Help Improve Google Photos\" There's some pictures isn't backed up in photos but when i go to search>help improve google photos. Some old photos google shows 🙄 wtf! Anyone facing the",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "an old event",
+          "cite": "Reddit · Reddit, no country · 2021-05-22",
+          "url": "https://www.reddit.com/r/googlephotos/comments/niqe6b/old_pictures_not_backed_up_shows_in_help_improve/",
+          "distance": 0.38032424449920654
+        },
+        {
+          "record_id": "58425f80e9350e646e47",
+          "text": "Archive old Snapchat photos I'm trying to find a way to find and archive old snapchat photos I saved from 10 years ago. I've tried searching by resolution, and MP size, but that doesn't seem to be working. There is also a specific file name format, but I'm not sure if I can search by that method. Any ideas?",
+          "sentence": "I've tried searching by resolution, and MP size, but that doesn't seem to be working.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "an old event",
+          "cite": "Reddit · Reddit, no country · 2024-02-27",
+          "url": "https://www.reddit.com/r/googlephotos/comments/1b1f8op/archive_old_snapchat_photos/",
+          "distance": 0.3851267099380493
+        }
+      ]
+    },
+    "question": "What information do people actually remember about a photo?"
+  },
+  {
+    "ok": true,
+    "answer": {
+      "executive_finding": "Users report being unable to locate photos they believe they uploaded or backed up to Google Photos, with many describing entire years of photos as missing or inaccessible.",
+      "key_behaviors": [
+        "Searched for photos using date ranges and specific formats",
+        "Scrolled through photo libraries looking for content",
+        "Attempted to recover photos from old phones",
+        "Looked for photos in memory reels where they appeared but not in main gallery",
+        "Searched by keywords and AI search features",
+        "Tried to browse the main page and camera roll"
+      ],
+      "memory_gap": "Users hold memories of uploading or backing up photos from specific years (2017-2019, 2018, 2020-2023) and devices (Galaxy phones, old phones), but the search and retrieval system cannot locate these photos. Some users see these photos appear in memory reels or other features but cannot find them in their main gallery or through search.",
+      "who": "The reviews describe individual users of Google Photos across North America, UK and Ireland, and Reddit, with varying levels of experience managing photo libraries.",
+      "cited_ids": [
+        "8daf0502ae5534cde251",
+        "c3c9ad48d9c09ddcf486",
+        "a7c3dae51d348e6da35c",
+        "2a6f3e70da9ae4cc157f",
+        "806543398f7e0b72cd14",
+        "8abf8520d989aad84edd",
+        "1824b10cf529656f503c",
+        "8a551025f795324dcf8b",
+        "dd0cf35fc31eb594fd6e",
+        "6d06c4f3e1f6c91dbed2",
+        "95b15dfdce4d73997b05",
+        "fd342f5b8ff9304bb233",
+        "53ac15652a5f1fca07fe",
+        "cac2dd68fa5ea2294144",
+        "bfbaac62b23e5f9dab84"
+      ],
+      "reviews": [
+        {
+          "record_id": "8daf0502ae5534cde251",
+          "text": "I can't find my Google Photos recap?? It was supposed to come out a while ago and I don't have it, in fact no online article helped me either.",
+          "sentence": "I can't find my Google Photos recap?? It was supposed to come out a while ago and I don't have it",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Reddit · Reddit, no country · 2024-12-22",
+          "url": "https://www.reddit.com/r/googlephotos/comments/1hjuab0/i_cant_find_my_google_photos_recap/",
+          "distance": 0.42115628719329834
+        },
+        {
+          "record_id": "c3c9ad48d9c09ddcf486",
+          "text": "The search has ruined 20 years of careful intentional activity. the most basic things cannot be found now. searches that would have narrowed down and put a result out. now take five or six clarifications, including having to shut down the noise generated by the app",
+          "sentence": "The search has ruined 20 years of careful intentional activity. the most basic things cannot be found now.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-04 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=823fb45a-ebb4-4721-bb4d-7565ed12f99a",
+          "distance": 0.4262247681617737
+        },
+        {
+          "record_id": "a7c3dae51d348e6da35c",
+          "text": "Getting worse What have they done to search and the organisation of photos? Half of my date searches now return zero results unless I use very specific (unintuitive) date formats. Photos repeat when scrolling search results, and the results aren’t as relevant as they were in the past. If I make a copy of an old photo, it’s usually lost forever in my library as it appears to be time-stamped the same as the original - shouldn’t be. I’m not sure if these changes were made to improve the performance and cost optimisation on Google’s side, but the user experience has significantly deteriorated. Once a great product.",
+          "sentence": "Getting worse What have they done to search and the organisation of photos? Half of my date searches now return zero results unless I use very specific (unintuitive) date formats. Photos repeat when scrolling search resu",
+          "pains": [
+            "Search returns nothing",
+            "Search actually worked"
+          ],
+          "screen": "Search",
+          "looking_for": "an old event",
+          "cite": "App Store · UK and Ireland · 2024-10-19 · 1 stars",
+          "url": "https://apps.apple.com/gb/app/id962194608",
+          "distance": 0.42635488510131836
+        },
+        {
+          "record_id": "2a6f3e70da9ae4cc157f",
+          "text": "very useful but I had already missed some of my valuable photos, videos etc.. I don't know how can I recover it .. okay thanks a lot",
+          "sentence": "I had already missed some of my valuable photos, videos etc.. I don't know how can I recover it",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-02 · 5 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=8e2ae2fc-8b5b-4156-b9ee-a104c4422e53",
+          "distance": 0.42649173736572266
+        },
+        {
+          "record_id": "806543398f7e0b72cd14",
+          "text": "Photos missing but in memory reels? I am missing all my photos from 2017 to 2019. Its very upsetting because it's photos of my 2nd child growing up from 4 or 5 months up and my 3rd child being born to 18 months old. I have all my old phones and cant seem to find them either, I'm not 100% which phone i had but none have these pictures. How do I find them? I never deleted them. Another strange thing is that I'll get random memory reels that Google makes and there will be photos i can't find in my goggle gallery otherwise from around those years. Anyone have any clue what's going on or how i can get these photos and videos back?",
+          "sentence": "I am missing all my photos from 2017 to 2019. Its very upsetting because it's photos of my 2nd child growing up from 4 or 5 months up and my 3rd child being born to 18 months old.",
+          "pains": [
+            "Search returns nothing",
+            "Memories or albums show the wrong moment"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Reddit · Reddit, no country · 2026-06-29",
+          "url": "https://www.reddit.com/r/googlephotos/comments/1uirwt9/photos_missing_but_in_memory_reels/",
+          "distance": 0.43020427227020264
+        },
+        {
+          "record_id": "8abf8520d989aad84edd",
+          "text": "Where are my missing album pictures that I uploaded from my Galaxy phone !Still missing!!! Also all the pictures I purchased from you in your photo book Gone! Titled albums do me no good when my pictures I had in them are missing!! Hope they find my photos or I will never use this again! It's been months now !",
+          "sentence": "Where are my missing album pictures that I uploaded from my Galaxy phone !Still missing!!! Also all the pictures I purchased from you in your photo book Gone!",
+          "pains": [
+            "Memories or albums show the wrong moment"
+          ],
+          "screen": "Albums",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-09-18 · 2 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=08146e97-2c71-4eb5-859f-e95bc0eba14a",
+          "distance": 0.43404287099838257
+        },
+        {
+          "record_id": "1824b10cf529656f503c",
+          "text": "can't find anything remotely useful",
+          "sentence": "can't find anything remotely useful",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-27 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=b18e6dbc-aee7-4d29-a7f3-341ffe57e1ac",
+          "distance": 0.4351463317871094
+        },
+        {
+          "record_id": "8a551025f795324dcf8b",
+          "text": "Far too many changes behind the scenes. A while back my pictures were backed up from my phone and then available in Google Photos on my phone and laptop as well as Photoscan by Google. Now it is unclear what has been kept or lost. The tools keep changing around behind the scenes and we never get new signposts. The new search cannot be jigged. it shows people who are distinctly not me as photos of me are labelled me. It can't be told. Then keyword searched is replaced by chatty scatter-gun AI",
+          "sentence": "The new search cannot be jigged. it shows people who are distinctly not me as photos of me are labelled me.",
+          "pains": [
+            "Faces are missing or the wrong person",
+            "Search actually worked"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-07-30 · 2 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=3453c13d-fa12-4c32-a72f-3260c7e00652",
+          "distance": 0.43596798181533813
+        },
+        {
+          "record_id": "dd0cf35fc31eb594fd6e",
+          "text": "Just bring back the old format; I can't even find or browse my old media unless I search year by year because the main page only shows the camera roll. Who decided that? I used to scroll down, and I'd find everything; now I feel like my own memories are being hidden from me.",
+          "sentence": "I can't even find or browse my old media unless I search year by year because the main page only shows the camera roll.",
+          "pains": [
+            "Search returns nothing",
+            "The library is so large that any result is still a flood"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Play Store · North America · 2026-08-18 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=53afa4d3-4827-4771-9216-9589ccc92ca8",
+          "distance": 0.4364967346191406
+        },
+        {
+          "record_id": "6d06c4f3e1f6c91dbed2",
+          "text": "you have made me loose many 2018 memories,all my 2018 photos are lost apart from one irrelevant one",
+          "sentence": "you have made me loose many 2018 memories,all my 2018 photos are lost apart from one irrelevant one",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Play Store · North America · 2026-03-06 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=7d2f18db-5f5e-4b23-a119-a8e218b8fa5f",
+          "distance": 0.43804746866226196
+        },
+        {
+          "record_id": "95b15dfdce4d73997b05",
+          "text": "the ai search is so much worse than than the older search used to be! very disappointing and frustrating, it used to be so easy to find what I was looking for.",
+          "sentence": "the ai search is so much worse than than the older search used to be! very disappointing and frustrating, it used to be so easy to find what I was looking for.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-03-03 · 4 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=794110ff-d1cb-4ed5-a63d-ddc154615372",
+          "distance": 0.4385249614715576
+        },
+        {
+          "record_id": "fd342f5b8ff9304bb233",
+          "text": "sometimes very difficult to find the photos that are saved. The app does not always tell you where it decides to save them so they become hidden photos.",
+          "sentence": "sometimes very difficult to find the photos that are saved. The app does not always tell you where it decides to save them so they become hidden photos.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-24 · 2 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=dc2e8e94-dc16-4dc4-bc57-b815b33f0c8d",
+          "distance": 0.4391348361968994
+        },
+        {
+          "record_id": "53ac15652a5f1fca07fe",
+          "text": "the reason for this is the fact that many of my backed photos and videos were missing from the Google photos especially from 2020 to 2023 January many memorable moments were gone so it was a really bad experience",
+          "sentence": "many of my backed photos and videos were missing from the Google photos especially from 2020 to 2023 January many memorable moments were gone",
+          "pains": [
+            "The library is so large that any result is still a flood"
+          ],
+          "screen": "not_named",
+          "looking_for": "an old event",
+          "cite": "Play Store · North America · 2026-05-02 · 2 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=b0a93c12-c467-4d83-b02b-47dadb2816bc",
+          "distance": 0.44148385524749756
+        },
+        {
+          "record_id": "cac2dd68fa5ea2294144",
+          "text": "useless, only shows local photos, not cloud. to see cloud photos one must search for them. stupid, probably written by a.i.",
+          "sentence": "only shows local photos, not cloud. to see cloud photos one must search for them.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-04-25 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=7ff65187-3d6b-40f0-b6cf-25bee8df1215",
+          "distance": 0.44437241554260254
+        },
+        {
+          "record_id": "bfbaac62b23e5f9dab84",
+          "text": "I want to see my videos that were cleared up from my flushed phone which you have not helped me to do.",
+          "sentence": "I want to see my videos that were cleared up from my flushed phone which you have not helped me to do.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-02-20 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=03965b78-d0b3-4dfe-97b4-633ace0ba434",
+          "distance": 0.4469759464263916
+        }
+      ]
+    },
+    "question": "What information have they forgotten?"
+  },
+  {
+    "ok": true,
+    "answer": {
+      "executive_finding": "Users formulate searches using specific keywords, dates, text tags, and combined parameters (like person + location), but the reviews do not explain how users adapt their search formulation when memory is incomplete.",
+      "key_behaviors": [
+        "Users search by specific keywords they remember",
+        "Users search by date using various formats",
+        "Users search by text word search in photo descriptions",
+        "Users search by tagged names of family and friends",
+        "Users combine multiple search parameters together",
+        "Users issue follow-up queries to refine results",
+        "Users rely on notes added to photos during search"
+      ],
+      "memory_gap": "The reviews do not describe what users do when their memory is incomplete or how they formulate searches with partial information.",
+      "who": "The reviews describe individual users with large photo libraries (ranging from thousands to 60,000+ photos) who have used Google Photos search functionality over many years.",
+      "cited_ids": [
+        "3ec8e6d48d8beba374e7",
+        "b08e22709777fe378e80",
+        "0e41722dfc7d5c2a906e",
+        "e55fedb81b14589d6318",
+        "5bd5e6777f8eb90a2421",
+        "a7c3dae51d348e6da35c",
+        "6ed16b274604301b5a18",
+        "c3c9ad48d9c09ddcf486",
+        "f9cf0d0178694a50d4d4",
+        "83c7964882af92e09a65",
+        "0ce9b81212563e69cbe2",
+        "007bcaf307f7200528d5",
+        "2638d502767be22bd3e4",
+        "15f6769a68a9ad0436f0",
+        "06b72c9015f1b37be9fd"
+      ],
+      "reviews": [
+        {
+          "record_id": "3ec8e6d48d8beba374e7",
+          "text": "Why? BRING BACK SEARCH! The absurd over reliance on AI for everything is making it hardernto just do simple tasks. Why remove the search tab so I could pull up photos of a certain topic in seconds and replace it with AI that takes over half a minute to do something else? I swear, people just throw in AI because it's the cool thing right now instead of asking if something really even needs it.",
+          "sentence": "Why remove the search tab so I could pull up photos of a certain topic in seconds",
+          "pains": [
+            "Search actually worked"
+          ],
+          "screen": "Search",
+          "looking_for": "a specific object",
+          "cite": "Play Store · North America · 2026-03-31 · 3 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=7dc18482-9a86-4ae8-b5fd-ee601ead774e",
+          "distance": 0.30887317657470703
+        },
+        {
+          "record_id": "b08e22709777fe378e80",
+          "text": "It used to be much better before AI was poorly added. Please can you fix the search function? It used to be excellent and now it doesn’t work at all.",
+          "sentence": "It used to be much better before AI was poorly added. Please can you fix the search function? It used to be excellent and now it doesn’t work at all.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "App Store · UK and Ireland · 2026-07-16 · 1 stars",
+          "url": "https://apps.apple.com/gb/app/id962194608",
+          "distance": 0.3146420121192932
+        },
+        {
+          "record_id": "0e41722dfc7d5c2a906e",
+          "text": "All this AI and yet the word search feature doesn't work properly?? It might be because I'm using it more but I'm noticing that text word search works worse since these new AI updates and such",
+          "sentence": "text word search works worse since these new AI updates",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-03 · 2 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=79fb5253-1822-4e41-8b63-9840e4215efe",
+          "distance": 0.3148536682128906
+        },
+        {
+          "record_id": "e55fedb81b14589d6318",
+          "text": "AI has ruined the app. the search function is now useless. it thinks it knows what I want and throws in any old junk. the old search was flawless. Even after multiple prompts it seems to actually get worse and resorts to grovelling.",
+          "sentence": "the search function is now useless. it thinks it knows what I want and throws in any old junk. the old search was flawless.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-07-15 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=03149221-2cbc-4fd7-8943-faf0031bfa3e",
+          "distance": 0.3184206485748291
+        },
+        {
+          "record_id": "5bd5e6777f8eb90a2421",
+          "text": "I love the new Ai additional help in the search bar. However, when I request a search using words I know are included in what I'm looking for, it comes up empty. I know with time this would be improved upon. All in all, I'm still extremely pleased with the app 👌🏽",
+          "sentence": "when I request a search using words I know are included in what I'm looking for, it comes up empty",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-24 · 5 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=ada4c676-9822-4a94-8ebe-e292625e14a9",
+          "distance": 0.32087647914886475
+        },
+        {
+          "record_id": "a7c3dae51d348e6da35c",
+          "text": "Getting worse What have they done to search and the organisation of photos? Half of my date searches now return zero results unless I use very specific (unintuitive) date formats. Photos repeat when scrolling search results, and the results aren’t as relevant as they were in the past. If I make a copy of an old photo, it’s usually lost forever in my library as it appears to be time-stamped the same as the original - shouldn’t be. I’m not sure if these changes were made to improve the performance and cost optimisation on Google’s side, but the user experience has significantly deteriorated. Once a great product.",
+          "sentence": "Getting worse What have they done to search and the organisation of photos? Half of my date searches now return zero results unless I use very specific (unintuitive) date formats. Photos repeat when scrolling search resu",
+          "pains": [
+            "Search returns nothing",
+            "Search actually worked"
+          ],
+          "screen": "Search",
+          "looking_for": "an old event",
+          "cite": "App Store · UK and Ireland · 2024-10-19 · 1 stars",
+          "url": "https://apps.apple.com/gb/app/id962194608",
+          "distance": 0.32508111000061035
+        },
+        {
+          "record_id": "6ed16b274604301b5a18",
+          "text": "Disable and force stop then use anything else and you'll probably have a better time trying to find the pictures you want. I dispise algorithms and apps trying to decide what I want to consume.",
+          "sentence": "Disable and force stop then use anything else and you'll probably have a better time trying to find the pictures you want.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "not_named",
+          "looking_for": "a specific object",
+          "cite": "Play Store · North America · 2026-07-18 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=60a9ab9b-4c5d-48ea-9d59-675f91f5a76f",
+          "distance": 0.3256418704986572
+        },
+        {
+          "record_id": "c3c9ad48d9c09ddcf486",
+          "text": "The search has ruined 20 years of careful intentional activity. the most basic things cannot be found now. searches that would have narrowed down and put a result out. now take five or six clarifications, including having to shut down the noise generated by the app",
+          "sentence": "The search has ruined 20 years of careful intentional activity. the most basic things cannot be found now.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-04 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=823fb45a-ebb4-4721-bb4d-7565ed12f99a",
+          "distance": 0.3285562992095947
+        },
+        {
+          "record_id": "f9cf0d0178694a50d4d4",
+          "text": "The search function has been destroyed, and replaced with an AI who wants to talk to me, instead of finding the terms I type in. Anyone recommend a good app for its search functionality? I tag my photos to search and find terms. My photo DB is not useful here anymore.",
+          "sentence": "The search function has been destroyed, and replaced with an AI who wants to talk to me, instead of finding the terms I type in.",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-03-31 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=7615efb7-71e5-48ef-a219-1ffe193f2193",
+          "distance": 0.32879120111465454
+        },
+        {
+          "record_id": "83c7964882af92e09a65",
+          "text": "the app has been so poor recently with the search keywords. even when your photo is being backedup, you still have to look for it manually. I wonder whats the usefulness of the search if you cant find your pictures without seeing \"no results\"",
+          "sentence": "even when your photo is being backedup, you still have to look for it manually. I wonder whats the usefulness of the search if you cant find your pictures without seeing \"no results\"",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-13 · 3 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=9bae19b0-2f3a-41a7-a22e-d54a09dfbbb7",
+          "distance": 0.33163386583328247
+        },
+        {
+          "record_id": "0ce9b81212563e69cbe2",
+          "text": "You've removed the search function from the app. I don't want to opt into AI search, so you have removed a working function that I used and replaced it with AI search that I don't want to opt into.",
+          "sentence": "You've removed the search function from the app. I don't want to opt into AI search, so you have removed a working function that I used",
+          "pains": [
+            "Search actually worked"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-04-01 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=f52cad47-c9dc-4f7c-80fd-2f757d53f35b",
+          "distance": 0.3318992853164673
+        },
+        {
+          "record_id": "007bcaf307f7200528d5",
+          "text": "Is Google Photos suffering from dementia? I'm experiencing a rather annoying problem. I have 53K+ photos (88GB) stored on my Google account Over the past 4-5 months Google Photos gotten increasingly.. well dumb.. Face recognition is completely shot and the search function can no longer handle the rather simple task of combining 2 search parameters like person + location. It doesn't even take notes on the photos into consideration when searching anymore. Earlier that was a sure way to find specific photos in a search, but now NOTHING! Like what the h...? So what happened? Are Google actively working the problem? Or am I forced to find another service?",
+          "sentence": "Face recognition is completely shot and the search function can no longer handle the rather simple task of combining 2 search parameters like person + location.",
+          "pains": [
+            "Search returns nothing",
+            "Faces are missing or the wrong person"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Reddit · Reddit, no country · 2024-11-24",
+          "url": "https://www.reddit.com/r/googlephotos/comments/1gyv4wt/is_google_photos_suffering_from_dementia/",
+          "distance": 0.3328245282173157
+        },
+        {
+          "record_id": "2638d502767be22bd3e4",
+          "text": "AI has made this useless With the recent updates I increasingly find if I search for any photos, then issue a follow up query, it will completely ignore the initial search results and describe some random photo from my library that has nothing to do with what I was searching for. Quite often the random photo doesn’t even match the random description. If I question why the results are so bad I get told that it can’t classify photos because it can’t see them. Er.. isn’t that the whole point of it? And this strange confession is completely contrary to anything it has done up to that point. You have successfully made using Google photos a total waste of time.",
+          "sentence": "if I search for any photos, then issue a follow up query, it will completely ignore the initial search results and describe some random photo from my library",
+          "pains": [
+            "Ask Photos forgets the follow-up",
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "App Store · UK and Ireland · 2026-06-26 · 1 stars",
+          "url": "https://apps.apple.com/gb/app/id962194608",
+          "distance": 0.3386803865432739
+        },
+        {
+          "record_id": "15f6769a68a9ad0436f0",
+          "text": "Search doesn't work like it used to, so it kind of makes this app worthless to me! With nearly 60k photos I can no longer search for SOME family and friends names in label descriptions I've make over many years, very frustrating. I've contaced google and they cannot find a resolution! Oh, and also something new, the app actually erases what I type on the description! I have to remember to copy text so I can cut and paste, or I have to retype everything!",
+          "sentence": "Search doesn't work like it used to, so it kind of makes this app worthless to me! With nearly 60k photos I can no longer search for SOME family and friends names",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "a person",
+          "cite": "Play Store · North America · 2026-08-09 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=2865fbd1-e82d-4490-a7d9-5f4df1482d6d",
+          "distance": 0.3390524387359619
+        },
+        {
+          "record_id": "06b72c9015f1b37be9fd",
+          "text": "The search function is garbage now. Keywords that I used to search for pictures that would bring back hundreds of pics, including the ones I was looking for, now bring \"No Results.\" Why did you break it like this?",
+          "sentence": "Keywords that I used to search for pictures that would bring back hundreds of pics, including the ones I was looking for, now bring \"No Results.\"",
+          "pains": [
+            "Search returns nothing"
+          ],
+          "screen": "Search",
+          "looking_for": "not_said",
+          "cite": "Play Store · North America · 2026-08-10 · 1 stars",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=2530ee6e-ba36-4da9-a8b4-5a7b57de60aa",
+          "distance": 0.3403937816619873
+        }
+      ]
+    },
+    "question": "How do users formulate searches when their memory is incomplete?"
+  }
+]
