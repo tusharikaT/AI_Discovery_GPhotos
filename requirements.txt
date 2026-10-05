@@ -11,14 +11,14 @@ pydantic>=2.7
 pydantic-settings>=2.3
 python-dotenv>=1.0
 
-# --- Scraping (all free paths) ---
-requests>=2.32
-beautifulsoup4>=4.12
-trafilatura>=1.9
-duckduckgo-search>=6.1          # web-first search-driven discovery
-google-play-scraper>=1.2
-app-store-scraper>=0.3.5
-youtube-comment-downloader>=0.1.76
+# --- Scraping (COMMENTED OUT FOR CLOUD DEPLOYMENT) ---
+# requests>=2.32
+# beautifulsoup4>=4.12
+# trafilatura>=1.9
+# duckduckgo-search>=6.1          # web-first search-driven discovery
+# google-play-scraper>=1.2
+# app-store-scraper>=0.3.5
+# youtube-comment-downloader>=0.1.76
 
 # --- Filtering / dedup ---
 langdetect>=1.0.9               # language gate
